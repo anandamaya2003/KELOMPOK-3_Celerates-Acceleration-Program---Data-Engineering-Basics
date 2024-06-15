@@ -1,0 +1,923 @@
+order_id;customer_id;product_id;order_date_new;order_time;quantity;payment_mode
+2;DV-13045;85;2022/08/23;Afternoon;15;Cash  
+3;SO-20335;82;2022/11/20;Afternoon;1;Cash  
+4;BH-11710;5;2023/02/03;Night    ;6;Online
+5;AA-10480;64;2022/10/02;Evening  ;8;Online
+6;IM-15070;127;2022/11/14;Evening  ;2;Online
+7;HP-14815;93;2022/05/03;Evening  ;1;Online
+8;PK-19075;136;2022/12/22;Night    ;15;Cash  
+9;AG-10270;120;2022/06/10;Morning  ;11;Cash  
+10;ZD-21925;70;2022/09/16;Afternoon;5;Online
+11;KB-16585;16;2022/11/16;Afternoon;2;Cash  
+12;SF-20065;84;2022/07/12;Night    ;3;Online
+13;EB-13870;39;2022/12/22;Afternoon;9;Online
+14;EH-13945;21;2022/11/25;Morning  ;13;Online
+15;TB-21520;55;2023/02/03;Evening  ;1;Cash  
+17;GH-14485;149;2022/10/16;Morning  ;1;Cash  
+18;SN-20710;74;2022/11/05;Night    ;2;Online
+19;LC-16930;106;2022/08/22;Night    ;13;Cash  
+20;RA-19885;35;2022/09/15;Night    ;9;Online
+21;ES-14080;100;2022/12/21;Evening  ;15;Online
+22;ON-18715;84;2022/10/04;Evening  ;14;Cash  
+23;PO-18865;108;2022/05/26;Midnight ;3;Online
+24;LH-16900;39;2023/02/11;Afternoon;3;Cash  
+25;DP-13000;89;2022/08/31;Evening  ;1;Cash  
+26;JM-15265;112;2022/08/18;Afternoon;13;Online
+27;TB-21055;100;2022/10/12;Afternoon;3;Cash  
+28;KM-16720;80;2023/01/06;Afternoon;10;Online
+29;PS-18970;80;2023/02/10;Afternoon;13;Cash  
+30;BS-11590;99;2023/01/28;Night    ;10;Online
+31;KD-16270;122;2022/09/14;Evening  ;7;Cash  
+32;HM-14980;73;2022/05/06;Morning  ;5;Cash  
+33;JE-15745;72;2023/02/05;Night    ;3;Online
+34;KB-16600;134;2023/02/04;Evening  ;12;Online
+35;SC-20770;136;2022/05/22;Morning  ;8;Cash  
+36;DN-13690;46;2022/07/02;Afternoon;10;Online
+37;JC-16105;69;2023/01/05;Night    ;10;Cash  
+38;CS-12400;103;2023/03/08;Night    ;12;Online
+39;PG-18895;86;2022/05/14;Evening  ;2;Online
+40;GM-14455;48;2023/02/05;Night    ;5;Online
+42;KB-16315;8;2022/05/09;Night    ;8;Online
+43;RB-19705;91;2022/05/26;Night    ;1;Cash  
+44;PN-18775;34;2022/08/28;Evening  ;12;Cash  
+45;KD-16345;127;2022/08/15;Afternoon;6;Cash  
+46;ER-13855;42;2022/05/07;Evening  ;7;Cash  
+48;GZ-14470;146;2023/02/23;Afternoon;14;Online
+49;LC-16870;76;2022/11/06;Morning  ;4;Online
+50;JM-15250;76;2022/11/02;Midnight ;8;Cash  
+51;PA-19060;101;2022/05/16;Morning  ;15;Online
+52;CV-12805;141;2023/03/16;Midnight ;12;Cash  
+53;CL-12565;112;2022/07/26;Afternoon;13;Cash  
+54;RC-19960;12;2022/12/28;Morning  ;14;Online
+55;DK-13090;14;2022/05/07;Night    ;10;Cash  
+56;GG-14650;135;2022/11/23;Midnight ;11;Cash  
+57;SC-20725;137;2022/08/04;Morning  ;14;Online
+58;AD-10180;126;2023/02/03;Morning  ;6;Online
+59;PF-19165;81;2022/07/01;Morning  ;5;Cash  
+60;TS-21610;104;2022/06/11;Night    ;2;Online
+61;LS-16975;64;2022/12/25;Afternoon;14;Cash  
+62;DW-13585;121;2022/10/17;Afternoon;3;Cash  
+63;LC-16885;145;2022/12/01;Morning  ;7;Online
+64;JD-15895;130;2022/12/09;Morning  ;1;Cash  
+65;SH-19975;116;2022/07/25;Morning  ;4;Cash  
+66;SG-20080;68;2022/04/05;Morning  ;2;Cash  
+67;HA-14920;113;2022/05/15;Midnight ;9;Cash  
+69;JE-16165;133;2023/01/10;Midnight ;7;Cash  
+71;SP-20650;95;2022/12/05;Night    ;6;Online
+72;NK-18490;106;2023/03/09;Afternoon;13;Online
+73;DB-13060;19;2022/07/29;Midnight ;5;Cash  
+74;NP-18670;102;2022/08/15;Evening  ;10;Online
+75;TT-21070;78;2023/02/02;Afternoon;6;Online
+76;EM-13960;84;2022/08/17;Morning  ;9;Online
+77;RD-19900;136;2023/02/04;Midnight ;12;Cash  
+78;MJ-17740;67;2022/10/01;Evening  ;4;Cash  
+79;BM-11140;64;2022/11/05;Night    ;6;Online
+80;CS-12130;50;2022/05/24;Evening  ;13;Cash  
+81;JB-15400;129;2022/11/19;Night    ;12;Online
+82;SJ-20500;65;2022/07/17;Evening  ;3;Online
+84;DK-13150;78;2023/03/03;Midnight ;13;Cash  
+85;RM-19675;49;2022/08/19;Night    ;3;Online
+86;SK-19990;44;2023/03/09;Morning  ;15;Cash  
+87;FM-14290;27;2022/05/29;Night    ;8;Cash  
+88;AM-10360;23;2022/07/07;Evening  ;10;Cash  
+89;MP-17470;70;2022/12/23;Evening  ;14;Cash  
+90;MZ-17515;68;2022/10/29;Night    ;15;Online
+92;VM-21685;146;2022/05/13;Afternoon;15;Cash  
+93;FH-14365;149;2022/07/03;Midnight ;2;Online
+95;BS-11755;44;2022/05/12;Night    ;8;Online
+97;HK-14890;46;2023/03/29;Evening  ;13;Online
+98;LE-16810;99;2022/12/24;Morning  ;1;Online
+99;JH-15985;8;2022/09/11;Evening  ;3;Cash  
+101;VW-21775;2;2023/03/26;Morning  ;3;Online
+102;JH-15910;10;2023/03/13;Morning  ;14;Cash  
+103;JB-15925;40;2023/03/14;Midnight ;8;Online
+104;DS-13180;38;2022/10/27;Morning  ;13;Online
+105;VD-21670;85;2023/01/25;Evening  ;8;Cash  
+106;EA-14035;144;2023/02/25;Evening  ;9;Cash  
+107;DB-13120;44;2023/02/07;Afternoon;4;Online
+108;KL-16645;112;2022/08/06;Afternoon;5;Online
+110;LH-17155;2;2022/11/16;Morning  ;2;Online
+111;KC-16540;24;2022/09/04;Midnight ;8;Cash  
+112;DL-13315;58;2023/02/24;Morning  ;7;Cash  
+113;DR-12880;53;2022/12/12;Afternoon;8;Cash  
+114;CC-12670;32;2022/08/14;Afternoon;10;Online
+116;SB-20290;108;2022/08/26;Evening  ;13;Cash  
+117;RC-19825;9;2023/03/09;Evening  ;7;Online
+118;AH-10210;3;2022/07/06;Midnight ;1;Online
+119;CB-12535;106;2022/05/12;Evening  ;10;Cash  
+120;CA-12310;133;2022/07/10;Evening  ;2;Cash  
+121;KH-16690;52;2022/08/26;Afternoon;8;Cash  
+123;AG-10495;96;2022/06/09;Evening  ;6;Online
+125;AH-10195;38;2022/04/10;Midnight ;7;Cash  
+126;NZ-18565;55;2022/04/08;Night    ;11;Online
+128;AS-10225;30;2022/08/07;Midnight ;11;Online
+129;CR-12625;97;2022/10/19;Morning  ;13;Cash  
+130;SH-20395;40;2022/12/28;Night    ;7;Cash  
+131;BP-11185;139;2023/01/19;Night    ;8;Cash  
+132;TS-21205;70;2022/12/05;Night    ;4;Online
+133;AG-10525;8;2022/12/20;Midnight ;5;Online
+134;SP-20860;139;2022/07/17;Night    ;12;Online
+135;NM-18445;101;2023/01/14;Midnight ;8;Online
+136;FA-14230;74;2022/08/24;Morning  ;15;Online
+138;DJ-13510;149;2022/09/01;Night    ;15;Online
+139;PO-18850;31;2023/02/26;Night    ;11;Online
+140;JL-15850;12;2022/06/12;Night    ;13;Cash  
+142;AC-10420;136;2022/12/30;Morning  ;12;Cash  
+144;TD-20995;144;2022/11/17;Evening  ;10;Cash  
+145;AB-10060;54;2022/10/09;Morning  ;14;Online
+147;VB-21745;99;2022/05/17;Evening  ;7;Online
+148;KW-16435;133;2023/03/19;Evening  ;13;Online
+149;JD-16060;44;2022/08/09;Morning  ;7;Online
+150;MK-17905;105;2023/01/30;Afternoon;14;Cash  
+151;GT-14755;75;2022/07/10;Morning  ;13;Online
+152;AG-10900;42;2022/10/24;Afternoon;9;Online
+153;MM-18280;147;2022/07/21;Evening  ;1;Cash  
+154;AR-10405;149;2022/12/13;Night    ;3;Cash  
+155;RA-19915;89;2023/02/07;Evening  ;10;Cash  
+156;AS-10285;2;2023/03/25;Midnight ;14;Cash  
+157;LA-16780;111;2023/02/24;Midnight ;7;Online
+159;DK-13225;146;2022/10/03;Afternoon;1;Online
+160;NG-18430;115;2022/07/23;Night    ;10;Online
+161;MV-18190;65;2023/01/19;Evening  ;12;Cash  
+162;JG-15115;132;2022/05/07;Midnight ;11;Cash  
+163;BP-11095;29;2023/01/06;Midnight ;6;Online
+164;VP-21730;5;2022/08/10;Afternoon;7;Online
+165;SS-20140;104;2023/01/05;Midnight ;11;Cash  
+166;AG-10675;137;2022/06/01;Evening  ;6;Cash  
+167;LF-17185;116;2023/02/23;Morning  ;6;Cash  
+168;RF-19840;43;2022/04/19;Midnight ;4;Cash  
+169;KH-16510;26;2022/06/20;Morning  ;6;Cash  
+171;CJ-12010;116;2023/03/02;Midnight ;11;Cash  
+172;PB-19150;82;2022/08/27;Night    ;6;Online
+173;MP-17965;47;2023/01/20;Night    ;2;Online
+174;NF-18385;132;2022/09/03;Evening  ;2;Online
+175;SD-20485;82;2022/10/17;Afternoon;12;Cash  
+176;KH-16630;8;2022/08/04;Midnight ;1;Cash  
+177;RB-19795;13;2022/07/21;Morning  ;11;Online
+178;MK-18160;124;2022/12/09;Morning  ;2;Cash  
+180;BB-11545;81;2022/12/01;Afternoon;6;Online
+181;TB-21595;131;2022/06/09;Night    ;7;Cash  
+182;RB-19360;138;2022/07/02;Midnight ;1;Cash  
+183;EB-13705;132;2022/07/10;Midnight ;5;Cash  
+184;SC-20095;107;2023/01/03;Night    ;8;Cash  
+186;JS-15940;93;2023/03/15;Afternoon;2;Online
+187;MH-17785;37;2022/10/11;Morning  ;15;Cash  
+188;JP-15520;83;2022/12/28;Night    ;14;Cash  
+189;JE-15475;34;2023/02/08;Afternoon;12;Online
+190;JG-15805;121;2022/04/26;Evening  ;1;Online
+191;XP-21865;69;2022/05/20;Morning  ;14;Cash  
+192;EM-14065;113;2022/10/26;Night    ;2;Online
+193;MT-18070;119;2023/02/05;Midnight ;15;Online
+194;SA-20830;10;2022/12/15;Morning  ;4;Cash  
+195;CW-11905;109;2022/04/23;Night    ;4;Cash  
+196;AJ-10960;8;2022/06/25;Evening  ;3;Cash  
+197;SS-20590;37;2022/11/08;Midnight ;10;Cash  
+198;RO-19780;113;2023/01/05;Morning  ;15;Cash  
+199;MD-17350;18;2023/02/01;Morning  ;6;Online
+200;MY-17380;110;2022/12/25;Morning  ;10;Cash  
+201;CM-12385;130;2022/06/30;Morning  ;8;Cash  
+202;LS-17245;136;2022/09/21;Afternoon;9;Cash  
+203;BN-11515;37;2022/04/11;Midnight ;6;Online
+204;DB-13210;106;2022/10/24;Evening  ;7;Cash  
+206;BD-11605;15;2022/07/27;Night    ;4;Cash  
+207;PH-18790;21;2023/02/20;Evening  ;8;Online
+208;MG-18145;75;2022/08/26;Midnight ;13;Cash  
+209;KB-16240;148;2022/12/04;Night    ;2;Cash  
+211;RL-19615;149;2022/04/18;Morning  ;12;Cash  
+212;AA-10375;98;2022/05/05;Morning  ;12;Online
+214;DK-12985;30;2022/12/03;Evening  ;14;Online
+216;LM-17065;96;2023/03/07;Afternoon;9;Cash  
+217;AS-10135;150;2023/03/23;Morning  ;10;Cash  
+218;BD-11320;134;2022/12/23;Midnight ;13;Online
+219;GT-14710;51;2022/10/01;Evening  ;9;Cash  
+220;AJ-10945;92;2022/05/13;Afternoon;1;Cash  
+221;OT-18730;7;2023/03/26;Evening  ;1;Online
+222;LP-17080;35;2022/09/11;Morning  ;6;Cash  
+223;CA-12775;110;2022/09/21;Night    ;13;Online
+224;JF-15490;94;2023/03/23;Afternoon;14;Cash  
+225;FP-14320;33;2023/03/16;Evening  ;11;Cash  
+226;EB-13840;88;2022/12/12;Afternoon;13;Online
+227;JF-15415;81;2022/11/17;Afternoon;5;Cash  
+228;SF-20200;68;2022/11/05;Night    ;8;Online
+230;CS-11950;107;2022/04/16;Afternoon;6;Online
+232;DV-13465;83;2022/04/23;Night    ;13;Cash  
+233;BD-11725;2;2022/07/31;Morning  ;5;Cash  
+234;ZC-21910;133;2022/07/27;Midnight ;10;Cash  
+235;MS-17830;91;2022/11/29;Afternoon;10;Cash  
+237;TP-21130;27;2022/11/08;Midnight ;13;Cash  
+238;CK-12205;90;2022/04/26;Morning  ;13;Cash  
+239;AS-10240;11;2022/12/04;Evening  ;4;Online
+240;AR-10510;132;2022/12/11;Morning  ;10;Cash  
+241;NB-18655;20;2022/06/06;Afternoon;2;Cash  
+242;GD-14590;141;2022/12/23;Midnight ;4;Online
+243;CK-12595;72;2022/11/12;Midnight ;5;Cash  
+244;NG-18355;24;2022/11/22;Midnight ;10;Online
+245;CA-12265;80;2022/10/03;Morning  ;2;Cash  
+246;SF-20965;13;2022/11/16;Afternoon;10;Cash  
+248;AT-10735;30;2022/04/17;Midnight ;5;Online
+249;FM-14380;67;2022/10/26;Afternoon;3;Online
+250;DJ-13420;11;2022/11/15;Midnight ;6;Online
+252;JD-16150;78;2023/03/26;Midnight ;8;Online
+253;JL-15835;81;2022/06/18;Afternoon;13;Online
+256;AR-10825;49;2023/03/16;Midnight ;3;Online
+257;SR-20740;43;2023/01/03;Midnight ;10;Cash  
+258;CR-12730;71;2022/09/06;Midnight ;14;Cash  
+259;EH-14125;35;2022/11/18;Morning  ;4;Online
+260;SP-20545;85;2022/09/10;Night    ;2;Online
+261;TH-21235;45;2023/01/11;Midnight ;9;Cash  
+263;RB-19570;109;2022/06/19;Evening  ;2;Cash  
+264;CD-11980;71;2022/07/18;Morning  ;12;Online
+265;DJ-13630;77;2022/08/15;Midnight ;6;Cash  
+266;GT-14635;82;2022/10/02;Night    ;10;Online
+267;MC-17845;147;2023/03/05;Morning  ;1;Cash  
+268;RA-19285;36;2023/02/05;Midnight ;12;Cash  
+270;AB-10165;105;2022/09/07;Evening  ;13;Cash  
+271;JO-15550;90;2022/05/03;Evening  ;13;Cash  
+272;JK-15370;40;2022/07/29;Night    ;5;Online
+273;BN-11470;140;2022/08/15;Midnight ;15;Cash  
+274;DP-13165;45;2023/01/04;Night    ;10;Online
+275;TH-21550;49;2023/02/04;Night    ;15;Online
+276;AP-10915;5;2022/09/30;Midnight ;6;Cash  
+277;RS-19765;138;2022/12/08;Midnight ;13;Cash  
+278;SV-20365;59;2022/06/19;Night    ;6;Online
+279;CK-12325;131;2022/09/14;Afternoon;15;Cash  
+280;RD-19810;142;2022/10/09;Evening  ;14;Online
+281;MR-17545;22;2022/08/09;Afternoon;3;Cash  
+283;JF-15355;34;2022/07/02;Midnight ;2;Cash  
+287;SS-20875;87;2022/08/06;Morning  ;3;Cash  
+288;PB-19105;133;2022/08/22;Night    ;7;Cash  
+289;RF-19735;147;2022/11/28;Midnight ;7;Online
+290;YC-21895;82;2022/05/03;Morning  ;7;Cash  
+291;DC-13285;79;2023/01/27;Night    ;8;Online
+292;CP-12340;32;2023/01/16;Midnight ;2;Cash  
+293;BF-11020;85;2022/04/21;Morning  ;8;Online
+294;LH-17020;112;2022/09/23;Evening  ;1;Cash  
+295;CS-12250;74;2022/07/21;Midnight ;7;Cash  
+296;AJ-10795;64;2023/02/06;Afternoon;7;Cash  
+297;BV-11245;64;2022/04/30;Evening  ;10;Online
+298;DL-12865;102;2022/07/19;Afternoon;9;Cash  
+299;BM-11785;48;2022/07/22;Evening  ;1;Online
+300;LT-17110;105;2022/06/27;Afternoon;8;Cash  
+301;JK-15730;118;2023/01/28;Night    ;7;Cash  
+302;ES-14020;81;2023/03/21;Night    ;14;Cash  
+303;RH-19495;26;2022/07/02;Midnight ;1;Cash  
+304;CD-11920;77;2022/05/28;Morning  ;15;Online
+306;MC-18130;48;2023/03/03;Morning  ;8;Online
+307;GM-14440;63;2023/02/13;Evening  ;8;Cash  
+308;PJ-19015;127;2022/12/17;Evening  ;13;Online
+309;BW-11110;44;2022/10/14;Evening  ;8;Online
+310;TR-21325;115;2022/04/25;Afternoon;4;Cash  
+312;JL-15175;138;2022/12/28;Night    ;1;Cash  
+313;BM-11650;65;2022/04/19;Midnight ;1;Cash  
+314;EM-14095;145;2023/02/27;Morning  ;8;Online
+315;AF-10885;4;2023/02/20;Afternoon;13;Online
+316;GA-14725;51;2022/11/02;Morning  ;4;Online
+317;CK-12760;43;2023/03/10;Afternoon;12;Online
+318;DP-13105;27;2022/12/21;Midnight ;10;Online
+319;BK-11260;95;2022/06/30;Afternoon;15;Cash  
+320;SJ-20125;135;2023/03/18;Afternoon;7;Cash  
+321;CM-12445;53;2023/02/08;Evening  ;12;Cash  
+322;AJ-10780;64;2022/05/05;Morning  ;11;Cash  
+323;LS-16945;127;2022/12/29;Morning  ;4;Cash  
+324;GP-14740;148;2022/07/18;Night    ;15;Online
+326;SM-20005;83;2022/05/03;Evening  ;8;Cash  
+327;AG-10765;69;2022/11/29;Midnight ;15;Cash  
+328;PM-19135;80;2022/06/16;Evening  ;3;Online
+329;LL-16840;95;2023/01/10;Afternoon;7;Online
+331;EL-13735;19;2022/08/21;Evening  ;4;Online
+333;HL-15040;86;2022/10/30;Afternoon;11;Cash  
+334;MS-17365;65;2022/04/04;Evening  ;4;Cash  
+335;GB-14530;75;2022/10/24;Night    ;11;Cash  
+337;BE-11335;27;2022/10/15;Midnight ;14;Online
+338;SC-20050;125;2022/05/06;Morning  ;12;Cash  
+340;SE-20110;4;2022/06/02;Evening  ;4;Cash  
+341;AH-10075;104;2023/03/19;Evening  ;9;Cash  
+342;JM-15535;75;2023/03/11;Afternoon;7;Online
+343;JJ-15760;98;2023/01/18;Afternoon;5;Cash  
+344;RK-19300;43;2022/05/13;Night    ;14;Cash  
+345;CG-12040;17;2022/05/09;Night    ;14;Online
+346;RP-19270;1;2023/01/31;Morning  ;12;Cash  
+347;KC-16255;75;2022/06/24;Afternoon;7;Cash  
+348;KH-16360;145;2022/09/19;Midnight ;1;Online
+349;GH-14665;39;2022/08/17;Evening  ;5;Cash  
+350;SW-20275;50;2022/09/21;Morning  ;8;Online
+351;JA-15970;87;2022/07/08;Night    ;5;Online
+352;DL-12925;52;2022/05/25;Night    ;11;Cash  
+353;LW-16990;34;2022/05/18;Midnight ;4;Online
+354;TB-21190;35;2023/01/16;Midnight ;14;Online
+355;BS-11800;65;2023/03/15;Midnight ;4;Online
+356;RW-19690;67;2022/05/26;Night    ;14;Cash  
+357;TZ-21580;132;2022/09/21;Afternoon;9;Online
+358;AS-10630;100;2022/10/27;Night    ;6;Cash  
+359;TS-21340;72;2022/08/27;Night    ;13;Online
+360;SL-20155;102;2022/10/06;Midnight ;2;Online
+362;RD-19585;45;2022/12/30;Morning  ;2;Cash  
+363;RA-19945;104;2022/05/09;Afternoon;9;Online
+364;MT-17815;63;2022/10/11;Night    ;2;Online
+365;VG-21790;63;2022/07/08;Night    ;10;Online
+366;JS-15880;42;2022/11/30;Afternoon;10;Online
+368;HR-14770;70;2022/08/31;Night    ;2;Cash  
+369;DE-13255;96;2022/07/03;Evening  ;2;Online
+371;JJ-15445;85;2022/10/18;Night    ;5;Online
+373;RD-19660;127;2022/05/08;Midnight ;12;Cash  
+374;MO-17500;135;2022/07/24;Midnight ;10;Online
+375;NS-18640;97;2022/11/17;Evening  ;13;Cash  
+376;DG-13300;88;2022/12/04;Midnight ;15;Cash  
+377;NF-18595;124;2022/05/20;Evening  ;3;Online
+378;MG-17650;3;2022/04/24;Midnight ;2;Cash  
+380;BD-11620;112;2022/10/20;Afternoon;5;Online
+381;CM-12160;101;2023/02/26;Morning  ;1;Online
+382;SN-20560;114;2022/08/16;Night    ;9;Cash  
+383;EH-14005;68;2022/05/06;Morning  ;7;Online
+384;FO-14305;122;2022/10/22;Afternoon;1;Online
+385;MS-17710;126;2022/04/25;Morning  ;5;Cash  
+386;CC-12100;148;2022/11/23;Midnight ;5;Online
+387;DW-13540;35;2023/03/17;Midnight ;14;Cash  
+388;BT-11395;135;2022/10/09;Evening  ;14;Cash  
+389;CY-12745;10;2022/12/22;Evening  ;12;Cash  
+391;PS-19045;72;2022/04/21;Night    ;1;Online
+392;PV-18985;150;2022/09/18;Night    ;15;Online
+393;NM-18520;25;2022/07/02;Evening  ;10;Online
+394;DL-13495;105;2022/04/03;Morning  ;1;Cash  
+395;CS-12355;25;2023/01/31;Evening  ;3;Cash  
+396;FH-14275;115;2022/10/31;Morning  ;15;Online
+397;NC-18340;65;2022/07/06;Afternoon;2;Online
+398;AA-10315;38;2023/01/13;Evening  ;6;Online
+399;LT-16765;111;2022/06/24;Evening  ;5;Online
+400;AP-10720;63;2023/03/04;Morning  ;11;Cash  
+401;PM-18940;131;2022/10/11;Midnight ;14;Online
+402;AT-10435;142;2023/03/19;Night    ;9;Cash  
+403;CA-12055;127;2022/09/25;Midnight ;11;Cash  
+404;HR-14830;118;2022/11/26;Midnight ;5;Cash  
+405;BT-11530;116;2022/12/13;Night    ;8;Cash  
+406;LH-16750;98;2022/10/13;Afternoon;7;Online
+407;SW-20755;39;2023/01/02;Evening  ;9;Online
+408;SP-20620;150;2022/10/05;Midnight ;9;Online
+409;BF-11170;49;2022/09/15;Morning  ;6;Cash  
+410;KT-16480;84;2022/11/23;Afternoon;10;Online
+411;BG-11695;66;2022/11/20;Afternoon;15;Cash  
+412;GM-14680;137;2023/03/09;Afternoon;13;Cash  
+413;EJ-14155;1;2022/04/03;Midnight ;9;Online
+414;NP-18700;51;2023/01/21;Night    ;5;Online
+415;MH-18115;35;2022/12/05;Evening  ;8;Online
+416;JR-15700;40;2022/08/05;Morning  ;12;Cash  
+417;SM-20950;130;2023/01/16;Evening  ;1;Online
+418;CC-12220;101;2022/11/12;Night    ;4;Cash  
+419;PF-19225;149;2022/10/08;Midnight ;15;Cash  
+420;DC-12850;133;2023/01/30;Evening  ;8;Online
+421;BD-11770;81;2023/03/24;Midnight ;14;Cash  
+422;GM-14500;4;2022/08/02;Evening  ;6;Online
+423;TB-21355;44;2022/10/21;Night    ;9;Cash  
+424;JH-16180;39;2022/04/21;Midnight ;5;Cash  
+425;EB-13975;32;2022/08/17;Afternoon;2;Cash  
+426;QJ-19255;97;2023/01/20;Midnight ;9;Online
+427;TC-21535;1;2022/05/21;Afternoon;5;Online
+428;CS-12460;121;2022/12/24;Afternoon;12;Online
+429;HG-14965;18;2022/09/19;Night    ;4;Cash  
+430;LW-16825;144;2022/11/05;Night    ;4;Cash  
+431;MC-17575;135;2023/03/16;Evening  ;3;Cash  
+432;LP-17095;65;2023/03/27;Afternoon;8;Cash  
+433;EB-14170;83;2022/05/27;Evening  ;10;Online
+434;GZ-14545;20;2022/08/21;Morning  ;5;Cash  
+435;CP-12085;4;2022/05/08;Afternoon;11;Cash  
+436;FG-14260;51;2023/01/05;Midnight ;7;Online
+437;LD-17005;129;2022/08/31;Morning  ;12;Cash  
+438;AB-10255;147;2022/06/20;Morning  ;15;Cash  
+439;MN-17935;92;2022/09/30;Afternoon;11;Cash  
+440;JR-15670;11;2022/11/28;Afternoon;13;Cash  
+441;JF-15190;6;2022/11/02;Midnight ;6;Online
+442;CM-12115;91;2022/08/22;Night    ;8;Cash  
+443;AS-10045;118;2022/09/05;Night    ;7;Cash  
+444;BP-11290;139;2022/09/28;Evening  ;9;Online
+445;ND-18370;121;2022/10/22;Morning  ;7;Online
+446;LB-16735;98;2022/08/31;Night    ;4;Online
+447;KT-16465;40;2023/01/17;Afternoon;15;Online
+448;HM-14860;42;2022/07/27;Evening  ;4;Cash  
+449;AB-10600;98;2022/09/09;Afternoon;15;Cash  
+450;SZ-20035;13;2022/05/20;Morning  ;15;Cash  
+451;MG-17890;37;2023/03/15;Midnight ;10;Cash  
+452;JK-16120;100;2022/12/25;Afternoon;7;Cash  
+453;PP-18955;67;2022/10/20;Midnight ;12;Online
+454;YS-21880;63;2023/03/07;Evening  ;1;Cash  
+455;KM-16375;15;2023/03/01;Midnight ;1;Cash  
+456;AB-10105;3;2022/12/31;Night    ;6;Cash  
+457;HA-14905;122;2022/10/16;Evening  ;15;Online
+458;BT-11305;71;2022/09/12;Midnight ;14;Cash  
+459;SV-20815;136;2022/06/08;Night    ;7;Online
+460;RW-19540;47;2022/11/20;Morning  ;2;Cash  
+461;DK-12835;30;2022/07/22;Midnight ;15;Online
+462;ST-20530;48;2022/04/24;Morning  ;6;Cash  
+463;MM-17920;47;2022/06/11;Midnight ;8;Online
+464;PW-19030;25;2022/10/18;Morning  ;13;Online
+465;SC-20440;20;2023/01/15;Evening  ;14;Cash  
+466;TS-21085;94;2023/01/11;Evening  ;5;Online
+467;MC-17425;67;2022/10/17;Morning  ;3;Online
+468;ME-17320;69;2022/09/08;Evening  ;14;Cash  
+469;NH-18610;88;2022/05/15;Morning  ;4;Online
+470;MB-18085;36;2022/09/29;Morning  ;15;Cash  
+471;KD-16495;79;2023/02/13;Afternoon;7;Cash  
+472;KN-16390;103;2023/01/11;Midnight ;11;Online
+473;NP-18685;2;2022/09/04;Evening  ;9;Online
+474;CS-12505;41;2022/08/28;Night    ;10;Online
+475;MS-17770;63;2023/02/24;Night    ;15;Cash  
+476;CM-12655;94;2023/02/02;Morning  ;9;Online
+477;Co-12640;137;2023/02/13;Midnight ;15;Online
+478;TS-21370;75;2022/12/27;Afternoon;4;Cash  
+479;JW-15220;89;2023/02/13;Afternoon;12;Cash  
+480;JD-15790;148;2022/10/02;Evening  ;12;Cash  
+481;PC-19000;149;2022/10/29;Evening  ;4;Cash  
+482;AR-10540;124;2023/01/31;Afternoon;14;Cash  
+483;AI-10855;70;2022/04/27;Morning  ;15;Online
+484;TB-21400;38;2023/03/21;Afternoon;14;Online
+485;PL-18925;49;2023/02/26;Midnight ;10;Online
+486;GH-14425;134;2023/02/14;Midnight ;6;Cash  
+487;MP-18175;49;2022/05/27;Midnight ;6;Cash  
+488;JM-15655;95;2022/09/21;Midnight ;2;Cash  
+489;CL-11890;90;2023/02/03;Evening  ;2;Online
+490;DB-13270;65;2022/12/26;Morning  ;8;Cash  
+491;IG-15085;66;2022/05/31;Midnight ;11;Online
+492;BO-11425;22;2022/07/11;Afternoon;10;Online
+493;AB-10150;106;2022/10/02;Morning  ;1;Cash  
+494;JW-16075;87;2023/01/14;Night    ;6;Online
+495;EB-13750;70;2022/10/20;Midnight ;11;Cash  
+496;SG-20470;105;2022/11/07;Night    ;14;Cash  
+497;CM-12190;85;2023/01/25;Midnight ;2;Online
+498;AW-10840;118;2022/06/16;Midnight ;3;Cash  
+499;MC-18100;9;2022/07/27;Evening  ;7;Online
+500;TT-21460;23;2022/04/08;Midnight ;13;Online
+501;VG-21805;77;2022/08/09;Afternoon;3;Online
+502;MY-18295;142;2023/01/04;Night    ;11;Online
+503;RD-19480;5;2022/11/04;Morning  ;8;Online
+504;DP-13390;120;2022/12/09;Evening  ;15;Online
+505;ML-17395;90;2023/02/12;Night    ;13;Cash  
+506;JC-15385;30;2022/12/26;Midnight ;13;Online
+507;JG-15160;68;2022/12/14;Morning  ;6;Cash  
+508;MC-17275;77;2022/12/10;Night    ;8;Cash  
+509;NW-18400;122;2022/10/26;Evening  ;5;Online
+510;TB-21280;82;2022/04/04;Afternoon;14;Online
+511;BS-11380;121;2022/08/02;Night    ;4;Cash  
+512;HH-15010;41;2023/01/11;Afternoon;3;Cash  
+513;CD-12280;146;2022/07/16;Night    ;5;Cash  
+514;TH-21100;93;2022/08/24;Evening  ;8;Online
+516;NS-18505;10;2022/09/22;Midnight ;12;Online
+517;RB-19645;26;2022/07/02;Evening  ;13;Online
+518;SW-20455;112;2022/12/09;Morning  ;6;Cash  
+519;EB-13930;44;2022/11/25;Morning  ;10;Cash  
+520;PS-18760;23;2022/04/03;Night    ;11;Online
+521;HF-14995;78;2023/01/27;Morning  ;14;Online
+522;HZ-14950;68;2022/12/29;Midnight ;13;Cash  
+523;CD-12790;22;2022/11/03;Afternoon;6;Cash  
+524;JK-15205;51;2022/05/01;Afternoon;13;Online
+525;FM-14215;50;2022/05/04;Midnight ;3;Cash  
+526;ED-13885;64;2022/07/04;Evening  ;10;Cash  
+527;DA-13450;145;2023/01/06;Afternoon;6;Cash  
+528;JW-15955;45;2022/07/01;Midnight ;7;Cash  
+530;ML-17755;134;2022/07/27;Night    ;6;Cash  
+531;CC-12685;124;2022/10/04;Night    ;10;Cash  
+532;JE-15610;102;2023/03/27;Midnight ;13;Online
+534;TB-21175;82;2022/05/16;Night    ;2;Online
+535;BE-11455;85;2022/09/05;Midnight ;4;Online
+536;JF-15565;25;2023/03/01;Evening  ;7;Cash  
+537;PB-19210;37;2023/01/25;Evening  ;3;Cash  
+538;BT-11680;107;2022/06/05;Morning  ;7;Online
+539;JL-15235;43;2022/09/07;Evening  ;3;Online
+540;CH-12070;138;2022/05/27;Afternoon;13;Cash  
+541;ND-18460;20;2022/07/30;Night    ;12;Cash  
+542;BF-10975;75;2022/08/04;Evening  ;9;Cash  
+543;KH-16330;61;2022/04/10;Evening  ;15;Cash  
+544;GW-14605;127;2022/12/14;Morning  ;15;Online
+545;NC-18625;43;2023/01/01;Midnight ;13;Online
+546;ME-18010;58;2022/07/09;Midnight ;1;Cash  
+547;BP-11230;91;2022/05/14;Morning  ;10;Online
+548;JC-15775;113;2023/03/29;Afternoon;14;Cash  
+549;AS-10090;81;2022/04/15;Afternoon;3;Online
+550;AC-10450;87;2022/11/15;Afternoon;15;Online
+551;MD-17860;119;2022/07/30;Evening  ;7;Cash  
+552;DB-13660;81;2022/09/12;Midnight ;15;Cash  
+553;EH-13990;66;2022/11/11;Evening  ;14;Cash  
+554;EH-13765;21;2023/03/09;Afternoon;4;Cash  
+555;SC-20230;4;2022/04/16;Evening  ;6;Cash  
+556;JE-15715;52;2023/02/27;Night    ;9;Cash  
+557;AC-10615;88;2022/06/30;Evening  ;2;Cash  
+558;JD-16015;95;2022/10/01;Morning  ;5;Online
+559;CB-12415;2;2022/08/31;Night    ;5;Online
+560;JS-16030;102;2022/12/10;Evening  ;1;Cash  
+561;LW-17215;6;2022/06/13;Midnight ;1;Cash  
+562;SC-20800;18;2022/08/09;Afternoon;4;Cash  
+563;AM-10705;136;2022/10/13;Evening  ;7;Online
+565;CT-11995;56;2022/09/27;Evening  ;15;Cash  
+566;MC-17590;79;2022/07/19;Evening  ;3;Cash  
+567;CC-12610;101;2022/10/16;Afternoon;7;Online
+569;TC-20980;139;2023/01/02;Midnight ;15;Online
+570;BF-11080;28;2022/09/15;Morning  ;4;Cash  
+571;MM-17260;126;2022/11/28;Evening  ;1;Cash  
+572;AH-10120;148;2022/04/02;Afternoon;15;Cash  
+573;BW-11200;120;2022/09/07;Afternoon;2;Cash  
+574;SW-20245;22;2022/10/22;Night    ;1;Cash  
+575;BS-11665;39;2022/12/24;Midnight ;1;Online
+576;RF-19345;19;2023/03/23;Afternoon;12;Cash  
+577;WB-21850;135;2022/09/06;Evening  ;7;Cash  
+578;TB-21625;121;2022/06/30;Night    ;5;Online
+579;AF-10870;72;2022/04/27;Evening  ;2;Cash  
+580;RB-19435;127;2022/07/01;Night    ;10;Online
+581;KF-16285;111;2022/04/23;Afternoon;13;Cash  
+582;JH-15820;126;2022/05/12;Morning  ;13;Cash  
+583;IL-15100;124;2022/05/31;Night    ;8;Cash  
+584;PB-18805;44;2022/12/04;Morning  ;15;Cash  
+585;RH-19600;63;2023/03/05;Morning  ;11;Cash  
+586;AW-10930;67;2022/05/22;Night    ;15;Online
+587;ML-17410;31;2022/04/09;Night    ;10;Cash  
+588;DB-13555;76;2022/06/16;Morning  ;11;Cash  
+589;MH-17620;68;2022/08/25;Night    ;5;Cash  
+590;DK-13375;19;2023/03/27;Midnight ;15;Online
+591;BT-11440;88;2022/10/01;Morning  ;13;Cash  
+592;DB-13405;72;2022/12/04;Morning  ;7;Cash  
+593;TG-21310;23;2023/02/16;Evening  ;9;Cash  
+594;BF-11005;19;2023/01/20;Morning  ;6;Cash  
+595;JM-16195;65;2023/02/22;Afternoon;9;Online
+596;MZ-17335;88;2022/04/26;Night    ;1;Online
+597;MW-18220;138;2022/11/30;Midnight ;10;Online
+598;MV-17485;111;2022/08/02;Afternoon;8;Cash  
+599;SM-20320;23;2022/10/03;Morning  ;13;Cash  
+600;TP-21415;1;2022/12/24;Morning  ;6;Cash  
+601;JK-15625;126;2022/11/01;Morning  ;12;Online
+602;PJ-18835;90;2022/08/27;Night    ;10;Cash  
+603;RS-19420;37;2022/08/31;Afternoon;10;Cash  
+604;SV-20935;84;2022/09/08;Night    ;10;Cash  
+606;EM-13825;48;2022/04/09;Night    ;6;Cash  
+607;BM-11575;67;2022/12/15;Afternoon;9;Cash  
+608;KN-16705;12;2023/02/28;Midnight ;1;Online
+610;SC-20260;48;2022/05/08;Evening  ;13;Online
+611;CV-12295;116;2022/06/25;Morning  ;2;Online
+612;SG-20605;117;2023/02/06;Midnight ;3;Online
+613;TM-21010;150;2022/06/10;Night    ;5;Online
+616;CR-12580;129;2022/07/15;Midnight ;6;Online
+617;AZ-10750;99;2022/06/28;Night    ;2;Cash  
+618;PW-19240;109;2022/04/08;Evening  ;1;Online
+619;SC-20380;100;2022/09/09;Morning  ;4;Cash  
+620;CM-11935;79;2022/09/14;Evening  ;12;Online
+621;GM-14695;31;2023/02/13;Evening  ;2;Online
+622;TB-21250;75;2022/12/14;Afternoon;13;Online
+623;JM-15865;85;2022/04/02;Midnight ;15;Cash  
+624;SC-20575;116;2023/03/08;Morning  ;9;Cash  
+625;LS-17200;135;2022/06/17;Morning  ;15;Online
+626;RR-19315;4;2023/02/01;Night    ;15;Cash  
+627;DB-12910;139;2022/06/22;Afternoon;15;Online
+629;LO-17170;111;2023/01/20;Evening  ;9;Cash  
+631;NB-18580;39;2022/07/01;Evening  ;13;Cash  
+632;BD-11635;142;2022/10/28;Night    ;9;Online
+633;CM-12235;120;2022/05/24;Evening  ;3;Online
+634;EN-13780;66;2022/07/26;Afternoon;13;Cash  
+635;KN-16450;127;2023/02/06;Night    ;15;Online
+637;AG-10300;87;2022/05/14;Midnight ;7;Cash  
+638;MC-17635;66;2022/08/20;Afternoon;11;Online
+639;TA-21385;46;2023/01/26;Morning  ;14;Cash  
+640;JF-15295;132;2023/01/04;Night    ;15;Online
+641;TT-21265;65;2023/02/09;Afternoon;15;Cash  
+642;SB-20170;59;2022/05/09;Morning  ;10;Online
+643;CL-12700;126;2022/10/20;Afternoon;2;Cash  
+644;HG-15025;77;2023/02/03;Evening  ;5;Online
+645;NL-18310;54;2022/07/26;Night    ;9;Cash  
+646;RR-19525;118;2022/08/30;Afternoon;14;Online
+647;TC-21295;50;2022/06/05;Afternoon;3;Cash  
+648;SV-20785;140;2022/05/27;Night    ;7;Cash  
+649;BE-11410;146;2022/11/05;Midnight ;9;Cash  
+650;SC-20680;84;2022/04/07;Morning  ;13;Online
+651;DF-13135;101;2022/07/11;Midnight ;10;Online
+652;FH-14350;115;2022/05/21;Afternoon;13;Online
+653;MS-17530;117;2022/05/30;Midnight ;10;Online
+654;RH-19555;45;2023/03/04;Morning  ;9;Cash  
+655;GA-14515;117;2022/06/30;Morning  ;12;Online
+656;JP-16135;114;2022/11/28;Midnight ;6;Online
+659;DL-13330;61;2023/01/21;Afternoon;2;Online
+660;MH-18025;110;2022/07/25;Night    ;9;Cash  
+661;DR-12940;118;2022/10/11;Midnight ;7;Online
+662;DM-13015;134;2023/02/15;Afternoon;3;Online
+663;CA-11965;150;2023/02/05;Night    ;1;Online
+664;AC-10660;44;2022/10/31;Morning  ;10;Online
+665;DM-13345;19;2022/05/06;Evening  ;14;Online
+666;VF-21715;101;2023/01/25;Evening  ;9;Cash  
+667;CC-12370;70;2022/09/28;Evening  ;3;Cash  
+668;BF-11275;5;2022/05/11;Morning  ;4;Online
+669;HG-14845;85;2023/03/18;Evening  ;11;Online
+670;BP-11155;66;2022/07/05;Night    ;15;Cash  
+671;EM-14140;108;2022/10/09;Afternoon;2;Online
+673;AY-10555;126;2022/09/17;Midnight ;12;Cash  
+675;JB-16045;117;2022/04/17;Night    ;12;Cash  
+676;MG-17875;68;2022/05/04;Evening  ;7;Cash  
+677;SR-20425;28;2022/05/19;Morning  ;3;Online
+678;JB-16000;103;2022/05/23;Evening  ;3;Online
+679;DM-12955;26;2022/11/02;Morning  ;12;Online
+680;TC-21475;117;2022/04/20;Night    ;4;Cash  
+681;SW-20350;60;2022/12/09;Night    ;9;Online
+682;RE-19450;65;2022/10/11;Midnight ;14;Online
+683;BF-11215;38;2022/08/12;Midnight ;15;Cash  
+684;KB-16405;2;2022/09/18;Afternoon;5;Cash  
+685;JG-15310;44;2022/05/20;Afternoon;3;Cash  
+686;EC-14050;5;2022/11/25;Afternoon;5;Cash  
+687;EB-14110;135;2022/12/18;Midnight ;10;Cash  
+688;JP-15460;97;2022/05/14;Afternoon;5;Online
+689;CS-11845;69;2022/08/13;Afternoon;6;Cash  
+690;GH-14410;92;2022/10/05;Night    ;9;Cash  
+691;PT-19090;109;2022/04/01;Evening  ;7;Cash  
+692;JL-15130;130;2023/01/13;Afternoon;14;Online
+693;AH-10030;115;2022/11/29;Midnight ;13;Online
+694;CC-12475;64;2022/04/22;Midnight ;14;Cash  
+695;DW-13195;2;2022/08/24;Midnight ;10;Online
+696;SJ-20215;14;2023/02/23;Evening  ;3;Online
+697;BG-11740;48;2022/05/05;Midnight ;5;Cash  
+698;LB-16795;98;2022/11/26;Night    ;10;Online
+699;CM-11815;145;2022/09/09;Evening  ;1;Online
+700;EH-14185;9;2022/11/15;Evening  ;6;Cash  
+701;TS-21505;34;2022/07/19;Evening  ;14;Online
+702;PR-18880;49;2023/03/25;Afternoon;13;Cash  
+703;LC-17050;142;2022/11/01;Afternoon;10;Online
+704;CS-12490;109;2022/08/14;Evening  ;1;Online
+705;DH-13075;70;2022/10/07;Evening  ;6;Online
+706;JO-15145;39;2023/02/05;Night    ;8;Online
+707;AH-10690;78;2022/12/16;Night    ;2;Online
+708;HJ-14875;38;2023/03/15;Midnight ;5;Cash  
+709;MH-17455;20;2023/02/22;Morning  ;6;Cash  
+711;SC-20020;143;2022/10/30;Afternoon;3;Cash  
+712;SU-20665;77;2022/12/17;Midnight ;3;Online
+713;FC-14335;147;2022/12/02;Morning  ;14;Online
+714;RB-19330;73;2022/12/14;Afternoon;14;Cash  
+715;NC-18535;50;2022/04/12;Morning  ;1;Online
+716;DB-12970;88;2022/12/03;Midnight ;9;Cash  
+718;RM-19750;42;2022/12/28;Afternoon;2;Online
+719;VM-21835;135;2022/05/09;Midnight ;15;Cash  
+720;EJ-13720;76;2022/05/10;Morning  ;14;Cash  
+723;KE-16420;70;2023/02/16;Evening  ;10;Online
+724;DH-13675;21;2022/06/27;Night    ;10;Cash  
+725;PF-19120;98;2022/07/04;Afternoon;6;Online
+726;VT-21700;144;2022/09/11;Morning  ;1;Online
+727;MG-17695;63;2022/08/25;Midnight ;5;Cash  
+728;SP-20920;28;2022/08/03;Midnight ;1;Online
+729;CS-12175;119;2022/11/24;Night    ;7;Cash  
+730;DK-12895;5;2022/06/28;Afternoon;13;Cash  
+731;KM-16660;83;2023/03/09;Afternoon;10;Cash  
+733;DD-13570;128;2023/02/03;Evening  ;5;Online
+734;AH-10465;75;2022/10/07;Evening  ;9;Cash  
+735;TP-21565;107;2022/08/10;Morning  ;14;Online
+736;EK-13795;13;2022/09/25;Afternoon;11;Cash  
+737;CR-12820;102;2022/09/20;Night    ;13;Online
+738;SG-20890;18;2023/03/01;Morning  ;1;Online
+739;AH-10585;142;2022/06/06;Night    ;14;Cash  
+740;NF-18475;128;2022/07/30;Midnight ;7;Cash  
+741;BS-11365;106;2022/07/16;Afternoon;7;Online
+742;SH-20635;126;2022/11/18;Night    ;14;Online
+743;RD-19720;33;2022/11/09;Morning  ;12;Online
+744;AG-10330;87;2022/06/25;Morning  ;1;Online
+745;GR-14560;134;2022/09/11;Evening  ;3;Online
+746;VS-21820;141;2022/08/05;Midnight ;1;Online
+747;TM-21490;126;2023/01/14;Midnight ;1;Online
+748;TS-21430;104;2022/09/20;Night    ;10;Online
+749;DB-13360;54;2022/08/31;Morning  ;3;Online
+750;NR-18550;10;2023/02/01;Evening  ;13;Cash  
+751;CS-11860;113;2022/09/16;Afternoon;5;Cash  
+752;MF-18250;74;2022/06/04;Morning  ;10;Online
+753;LW-17125;147;2022/06/26;Midnight ;13;Cash  
+754;AR-10345;87;2022/12/29;Evening  ;12;Online
+755;KS-16300;68;2023/01/02;Night    ;11;Cash  
+756;AB-10015;24;2022/10/21;Morning  ;12;Cash  
+757;LR-17035;98;2022/12/25;Morning  ;6;Cash  
+758;SS-20410;40;2022/09/25;Evening  ;10;Cash  
+759;JM-15580;34;2022/12/25;Midnight ;13;Online
+760;JK-15325;120;2022/11/14;Evening  ;12;Cash  
+761;DM-13525;44;2022/11/12;Midnight ;12;Online
+762;ML-18265;93;2022/04/09;Midnight ;11;Online
+763;MH-17290;28;2022/07/04;Night    ;2;Online
+764;FC-14245;145;2023/02/14;Night    ;14;Cash  
+765;TH-21115;8;2022/06/15;Night    ;15;Cash  
+766;JK-16090;77;2022/06/19;Morning  ;12;Cash  
+767;SB-20185;76;2023/02/26;Afternoon;6;Cash  
+768;BG-11035;134;2023/01/12;Afternoon;6;Cash  
+769;BW-11065;4;2022/06/07;Morning  ;8;Cash  
+770;MG-18205;51;2023/02/22;Morning  ;5;Online
+771;DO-13645;24;2022/08/15;Midnight ;4;Cash  
+772;BP-11050;89;2023/03/20;Evening  ;2;Online
+773;TS-21655;27;2022/08/14;Afternoon;14;Cash  
+774;EM-14200;51;2023/03/15;Night    ;7;Online
+775;AO-10810;79;2023/03/27;Night    ;2;Cash  
+776;MH-17440;76;2023/02/07;Midnight ;7;Cash  
+777;SS-20515;97;2022/10/23;Morning  ;9;Online
+778;LD-16855;71;2022/06/11;Evening  ;4;Cash  
+780;TC-21145;56;2022/11/27;Afternoon;9;Cash  
+781;IM-15055;133;2022/05/27;Midnight ;2;Cash  
+782;AR-10570;32;2022/12/16;Night    ;1;Cash  
+783;CM-12715;47;2022/04/29;Morning  ;13;Cash  
+784;FW-14395;33;2022/07/09;Morning  ;6;Online
+785;LC-16960;125;2022/12/07;Afternoon;5;Online
+786;HE-14800;34;2023/03/13;Night    ;11;Online
+787;BD-11560;20;2023/03/25;Afternoon;9;Cash  
+788;HD-14785;91;2022/08/13;Afternoon;10;Cash  
+789;CJ-11875;56;2022/08/03;Morning  ;3;Online
+790;RS-19870;21;2022/07/20;Evening  ;15;Online
+791;SC-20845;36;2022/04/07;Midnight ;8;Online
+792;RE-19405;52;2023/02/25;Morning  ;3;Online
+793;SM-20905;6;2022/08/30;Night    ;14;Online
+794;DD-13570;117;2022/10/02;Afternoon;5;Online
+795;AH-10465;130;2023/01/10;Evening  ;9;Cash  
+796;TP-21565;35;2022/06/25;Night    ;14;Online
+797;EK-13795;109;2022/11/26;Night    ;11;Cash  
+798;CR-12820;141;2022/05/22;Night    ;13;Online
+799;SG-20890;139;2023/01/11;Night    ;1;Online
+800;AH-10585;53;2022/11/06;Night    ;14;Cash  
+801;NF-18475;60;2022/04/28;Evening  ;7;Cash  
+802;BS-11365;100;2023/01/23;Afternoon;7;Online
+803;SH-20635;107;2022/08/27;Night    ;14;Online
+804;RD-19720;51;2022/10/11;Night    ;12;Online
+805;AG-10330;79;2022/05/08;Afternoon;1;Online
+806;GR-14560;12;2022/05/23;Evening  ;3;Online
+807;VS-21820;12;2022/06/13;Midnight ;1;Online
+808;TM-21490;137;2022/09/21;Morning  ;1;Online
+809;TS-21430;90;2022/12/12;Evening  ;10;Online
+810;DB-13360;124;2022/12/27;Morning  ;3;Online
+811;NR-18550;145;2023/03/02;Afternoon;13;Cash  
+812;CS-11860;138;2022/08/08;Afternoon;5;Cash  
+813;MF-18250;49;2022/10/13;Afternoon;10;Online
+814;LW-17125;112;2022/10/05;Midnight ;13;Cash  
+815;AR-10345;33;2022/04/20;Afternoon;12;Online
+816;KS-16300;35;2023/01/11;Morning  ;11;Cash  
+817;AB-10015;76;2022/05/21;Evening  ;12;Cash  
+818;LR-17035;55;2023/02/28;Night    ;6;Cash  
+819;SS-20410;19;2022/10/12;Evening  ;10;Cash  
+820;JM-15580;59;2023/02/24;Midnight ;13;Online
+821;JK-15325;121;2022/07/24;Midnight ;12;Cash  
+822;DM-13525;41;2022/06/17;Morning  ;12;Online
+823;ML-18265;43;2023/02/13;Midnight ;11;Online
+824;MH-17290;99;2023/01/18;Evening  ;2;Online
+825;FC-14245;120;2022/10/30;Morning  ;14;Cash  
+826;TH-21115;136;2022/12/02;Night    ;15;Cash  
+827;JK-16090;8;2023/01/06;Midnight ;12;Cash  
+828;SB-20185;87;2022/08/18;Evening  ;6;Cash  
+829;BG-11035;133;2022/09/19;Night    ;6;Cash  
+830;BW-11065;137;2022/11/28;Night    ;8;Cash  
+831;MG-18205;149;2022/08/01;Morning  ;5;Online
+832;DO-13645;42;2022/06/06;Morning  ;4;Cash  
+833;BP-11050;80;2022/09/01;Evening  ;2;Online
+834;TS-21655;114;2022/05/25;Evening  ;14;Cash  
+835;EM-14200;14;2022/09/27;Afternoon;7;Online
+836;AO-10810;104;2022/08/31;Midnight ;2;Cash  
+837;MH-17440;64;2022/05/19;Midnight ;7;Cash  
+838;SS-20515;119;2022/07/31;Morning  ;9;Online
+839;LD-16855;83;2022/05/08;Afternoon;4;Cash  
+841;TC-21145;107;2023/02/03;Night    ;9;Cash  
+842;IM-15055;95;2022/05/25;Evening  ;2;Cash  
+843;AR-10570;19;2022/07/04;Morning  ;1;Cash  
+844;CM-12715;89;2022/05/04;Morning  ;13;Cash  
+845;FW-14395;65;2022/07/01;Evening  ;6;Online
+846;LC-16960;93;2022/04/20;Afternoon;5;Online
+847;HE-14800;108;2022/08/14;Midnight ;11;Online
+848;BD-11560;139;2022/11/10;Night    ;9;Cash  
+849;HD-14785;36;2022/11/03;Night    ;10;Cash  
+850;CJ-11875;137;2022/08/20;Afternoon;3;Online
+851;RS-19870;60;2023/01/28;Night    ;15;Online
+852;SC-20845;97;2022/05/05;Night    ;8;Online
+853;RE-19405;111;2023/02/17;Midnight ;3;Online
+854;SM-20905;96;2022/10/14;Night    ;14;Online
+855;LT-16765;45;2022/10/23;Evening  ;5;Online
+856;AP-10720;53;2022/05/04;Night    ;11;Cash  
+857;PM-18940;16;2022/11/08;Evening  ;14;Online
+858;AT-10435;75;2022/11/22;Evening  ;9;Cash  
+859;CA-12055;48;2022/10/08;Midnight ;11;Cash  
+860;HR-14830;48;2022/07/16;Night    ;5;Cash  
+861;BT-11530;95;2023/01/24;Night    ;8;Cash  
+862;LH-16750;43;2023/03/10;Night    ;7;Online
+863;SW-20755;30;2022/09/08;Night    ;9;Online
+864;SP-20620;23;2022/08/20;Morning  ;9;Online
+865;BF-11170;92;2023/01/23;Night    ;6;Cash  
+866;KT-16480;70;2022/08/13;Midnight ;10;Online
+867;BG-11695;23;2023/01/26;Midnight ;15;Cash  
+868;GM-14680;67;2022/08/17;Evening  ;13;Cash  
+869;EJ-14155;24;2022/06/26;Midnight ;9;Online
+870;NP-18700;35;2022/10/31;Afternoon;5;Online
+871;MH-18115;149;2022/12/07;Evening  ;8;Online
+872;JR-15700;119;2022/07/14;Afternoon;12;Cash  
+873;SM-20950;46;2022/05/09;Night    ;1;Online
+874;CC-12220;82;2022/05/09;Midnight ;4;Cash  
+875;PF-19225;26;2022/08/05;Evening  ;15;Cash  
+876;DC-12850;2;2022/06/10;Evening  ;8;Online
+877;BD-11770;3;2022/10/27;Afternoon;14;Cash  
+878;GM-14500;150;2022/08/12;Evening  ;6;Online
+879;TB-21355;74;2022/11/06;Evening  ;9;Cash  
+880;JH-16180;138;2022/06/25;Morning  ;5;Cash  
+881;EB-13975;83;2022/05/25;Midnight ;2;Cash  
+882;QJ-19255;149;2022/04/23;Morning  ;9;Online
+883;TC-21535;21;2022/08/24;Midnight ;5;Online
+884;CS-12460;11;2023/03/01;Night    ;12;Online
+885;HG-14965;18;2022/10/16;Evening  ;4;Cash  
+886;LW-16825;59;2022/07/21;Night    ;4;Cash  
+887;MC-17575;103;2022/10/24;Morning  ;3;Cash  
+888;LP-17095;13;2022/09/05;Evening  ;8;Cash  
+889;EB-14170;33;2022/04/12;Midnight ;10;Online
+890;GZ-14545;33;2023/03/03;Morning  ;5;Cash  
+891;CP-12085;104;2022/12/27;Midnight ;11;Cash  
+892;FG-14260;3;2022/07/14;Evening  ;7;Online
+893;LD-17005;61;2022/07/13;Afternoon;12;Cash  
+894;AB-10255;138;2023/03/19;Morning  ;15;Cash  
+895;MN-17935;80;2023/01/03;Afternoon;11;Cash  
+896;JR-15670;126;2022/10/30;Night    ;13;Cash  
+897;JF-15190;135;2022/08/22;Morning  ;6;Online
+898;CM-12115;139;2023/03/02;Afternoon;8;Cash  
+899;AS-10045;53;2023/01/24;Midnight ;7;Cash  
+900;BP-11290;90;2022/12/07;Afternoon;9;Online
+901;ND-18370;87;2022/12/24;Morning  ;7;Online
+902;LB-16735;129;2022/11/23;Afternoon;4;Online
+903;KT-16465;75;2023/01/01;Night    ;15;Online
+904;HM-14860;109;2023/03/12;Midnight ;4;Cash  
+905;AB-10600;30;2022/12/13;Midnight ;15;Cash  
+906;SZ-20035;111;2022/04/04;Afternoon;15;Cash  
+907;MG-17890;103;2022/10/19;Midnight ;10;Cash  
+908;JK-16120;24;2023/03/06;Night    ;7;Cash  
+909;PP-18955;92;2023/02/21;Morning  ;12;Online
+910;YS-21880;142;2022/10/09;Afternoon;1;Cash  
+911;KM-16375;19;2022/04/09;Evening  ;1;Cash  
+912;AB-10105;111;2022/09/17;Evening  ;6;Cash  
+913;HA-14905;140;2023/02/15;Evening  ;15;Online
+914;BT-11305;40;2023/03/01;Night    ;14;Cash  
+915;SV-20815;82;2022/10/07;Afternoon;7;Online
+916;RW-19540;123;2022/11/17;Afternoon;2;Cash  
+917;DK-12835;54;2022/05/15;Evening  ;15;Online
+918;ST-20530;83;2022/11/12;Evening  ;6;Cash  
+919;MM-17920;136;2023/01/03;Evening  ;8;Online
+920;PW-19030;82;2022/07/12;Evening  ;13;Online
+921;SC-20440;138;2022/09/21;Midnight ;14;Cash  
+922;TS-21085;42;2022/06/13;Evening  ;5;Online
+923;MC-17425;80;2022/05/30;Morning  ;3;Online
+924;ME-17320;26;2022/12/17;Afternoon;14;Cash  
+925;NH-18610;8;2022/04/10;Afternoon;4;Online
+926;MB-18085;100;2023/02/27;Afternoon;15;Cash  
+927;KD-16495;38;2022/12/02;Evening  ;7;Cash  
+928;KN-16390;145;2022/04/07;Evening  ;11;Online
+929;NP-18685;122;2022/06/06;Night    ;9;Online
+930;CS-12505;102;2022/11/27;Night    ;10;Online
+931;MS-17770;53;2022/06/26;Afternoon;15;Cash  
+932;CM-12655;124;2022/10/18;Afternoon;9;Online
+933;Co-12640;4;2023/01/21;Afternoon;15;Online
+934;TS-21370;57;2022/09/19;Afternoon;4;Cash  
+935;JW-15220;134;2023/02/17;Midnight ;12;Cash  
+936;JD-15790;128;2022/08/10;Midnight ;12;Cash  
+937;PC-19000;93;2022/06/22;Night    ;4;Cash  
+938;AR-10540;92;2022/08/10;Evening  ;14;Cash  
+939;AI-10855;26;2023/02/19;Midnight ;15;Online
+940;TB-21400;72;2023/02/07;Midnight ;14;Online
+941;PL-18925;60;2023/02/10;Morning  ;10;Online
+942;GH-14425;118;2022/07/20;Night    ;6;Cash  
+943;MP-18175;141;2022/06/30;Night    ;6;Cash  
+944;JM-15655;80;2022/05/12;Midnight ;2;Cash  
+945;CL-11890;50;2022/05/15;Afternoon;2;Online
+946;DB-13270;135;2023/02/21;Midnight ;8;Cash  
+947;IG-15085;56;2022/08/16;Night    ;11;Online
+948;BO-11425;34;2023/01/16;Evening  ;10;Online
+949;AB-10150;142;2023/01/07;Evening  ;1;Cash  
+950;JW-16075;23;2022/09/25;Evening  ;6;Online
+951;EB-13750;120;2022/11/11;Afternoon;11;Cash  
+952;SG-20470;124;2022/09/24;Evening  ;14;Cash  
+953;CM-12190;99;2022/11/10;Afternoon;2;Online
+954;AW-10840;59;2023/01/31;Midnight ;3;Cash  
+955;MC-18100;24;2023/01/27;Afternoon;7;Online
+956;TT-21460;65;2022/04/30;Morning  ;13;Online
+957;VG-21805;122;2023/02/08;Midnight ;3;Online
+958;MY-18295;20;2022/05/22;Night    ;11;Online
+959;RD-19480;71;2022/11/28;Midnight ;8;Online
+960;DP-13390;50;2022/08/12;Evening  ;15;Online
+961;ML-17395;16;2023/03/14;Night    ;13;Cash  
+962;JC-15385;83;2022/05/18;Afternoon;13;Online
+963;JG-15160;71;2022/10/05;Morning  ;6;Cash  
+964;MC-17275;65;2022/05/07;Evening  ;8;Cash  
+965;NW-18400;108;2022/10/08;Night    ;5;Online
+966;IM-15070;105;2023/03/19;Morning  ;2;Online
+967;HP-14815;109;2022/06/29;Afternoon;1;Online
+968;PK-19075;84;2022/08/09;Morning  ;15;Cash  
+969;AG-10270;96;2022/11/06;Morning  ;11;Cash  
+970;ZD-21925;74;2022/11/21;Afternoon;5;Online
+971;KB-16585;37;2022/10/02;Morning  ;2;Cash  
+972;SF-20065;124;2023/03/11;Afternoon;3;Online
+973;EB-13870;26;2022/06/07;Morning  ;9;Online
+974;EH-13945;78;2023/01/28;Afternoon;13;Online
+975;TB-21520;54;2023/01/15;Midnight ;1;Cash  
+977;GH-14485;50;2023/01/05;Evening  ;1;Cash  
+978;SN-20710;61;2022/10/08;Night    ;2;Online
+979;LC-16930;124;2022/05/21;Midnight ;13;Cash  
+980;RA-19885;50;2022/06/20;Morning  ;9;Online
+981;ES-14080;76;2023/01/22;Midnight ;15;Online
+982;ON-18715;113;2023/03/30;Night    ;14;Cash  
+983;PO-18865;36;2023/03/17;Night    ;3;Online
+984;LH-16900;116;2023/01/07;Afternoon;3;Cash  
+985;DP-13000;14;2022/06/14;Afternoon;1;Cash  
+986;JM-15265;9;2022/04/30;Night    ;13;Online
+987;TB-21055;98;2023/01/04;Evening  ;3;Cash  
+988;KM-16720;103;2023/01/03;Night    ;10;Online
+989;PS-18970;77;2022/10/11;Afternoon;13;Cash  
+990;BS-11590;11;2022/11/24;Morning  ;10;Online
+991;KD-16270;91;2023/01/18;Night    ;7;Cash  
+992;HM-14980;63;2022/10/21;Morning  ;5;Cash  
+993;JE-15745;14;2022/07/17;Night    ;3;Online
+994;IM-15070;115;2022/11/01;Evening  ;2;Online
+995;HP-14815;134;2022/06/18;Night    ;1;Online
+996;PK-19075;86;2023/03/19;Evening  ;15;Cash  
+997;AG-10270;67;2022/09/20;Evening  ;11;Cash  
+998;ZD-21925;45;2023/01/26;Evening  ;5;Online
+999;KB-16585;40;2022/08/27;Afternoon;2;Cash  
+1000;SF-20065;101;2022/05/29;Midnight ;3;Online

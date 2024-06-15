@@ -1,0 +1,1001 @@
+product_id;product_name;product_category;price
+69;Aalopuri       ;Fastfood ;20
+85;Vadapav        ;Fastfood ;20
+82;Vadapav        ;Fastfood ;20
+5;Sugarcane juice;Beverages;25
+64;Sugarcane juice;Beverages;25
+127;Vadapav        ;Fastfood ;20
+93;Sugarcane juice;Beverages;25
+136;Panipuri       ;Fastfood ;20
+120;Panipuri       ;Fastfood ;20
+70;Panipuri       ;Fastfood ;20
+16;Frankie        ;Fastfood ;50
+84;Vadapav        ;Fastfood ;20
+39;Panipuri       ;Fastfood ;20
+21;Frankie        ;Fastfood ;50
+55;Aalopuri       ;Fastfood ;20
+95;Sandwich       ;Fastfood ;60
+149;Panipuri       ;Fastfood ;20
+74;Panipuri       ;Fastfood ;20
+106;Panipuri       ;Fastfood ;20
+35;Cold coffee    ;Beverages;40
+100;Cold coffee    ;Beverages;40
+84;Sugarcane juice;Beverages;25
+108;Sandwich       ;Fastfood ;60
+39;Sugarcane juice;Beverages;25
+89;Sandwich       ;Fastfood ;60
+112;Sugarcane juice;Beverages;25
+100;Cold coffee    ;Beverages;40
+80;Cold coffee    ;Beverages;40
+80;Sugarcane juice;Beverages;25
+99;Frankie        ;Fastfood ;50
+122;Cold coffee    ;Beverages;40
+73;Aalopuri       ;Fastfood ;20
+72;Aalopuri       ;Fastfood ;20
+134;Frankie        ;Fastfood ;50
+136;Vadapav        ;Fastfood ;20
+46;Cold coffee    ;Beverages;40
+69;Frankie        ;Fastfood ;50
+103;Panipuri       ;Fastfood ;20
+86;Vadapav        ;Fastfood ;20
+48;Sandwich       ;Fastfood ;60
+30;Cold coffee    ;Beverages;40
+8;Aalopuri       ;Fastfood ;20
+91;Vadapav        ;Fastfood ;20
+34;Cold coffee    ;Beverages;40
+127;Sugarcane juice;Beverages;25
+42;Vadapav        ;Fastfood ;20
+70;Sandwich       ;Fastfood ;60
+146;Sandwich       ;Fastfood ;60
+76;Frankie        ;Fastfood ;50
+76;Vadapav        ;Fastfood ;20
+101;Frankie        ;Fastfood ;50
+141;Sugarcane juice;Beverages;25
+112;Aalopuri       ;Fastfood ;20
+12;Panipuri       ;Fastfood ;20
+14;Sandwich       ;Fastfood ;60
+135;Panipuri       ;Fastfood ;20
+137;Panipuri       ;Fastfood ;20
+126;Vadapav        ;Fastfood ;20
+81;Vadapav        ;Fastfood ;20
+104;Cold coffee    ;Beverages;40
+64;Vadapav        ;Fastfood ;20
+121;Sugarcane juice;Beverages;25
+145;Sandwich       ;Fastfood ;60
+130;Cold coffee    ;Beverages;40
+116;Aalopuri       ;Fastfood ;20
+68;Frankie        ;Fastfood ;50
+113;Aalopuri       ;Fastfood ;20
+95;Cold coffee    ;Beverages;40
+133;Vadapav        ;Fastfood ;20
+15;Cold coffee    ;Beverages;40
+95;Cold coffee    ;Beverages;40
+106;Frankie        ;Fastfood ;50
+19;Panipuri       ;Fastfood ;20
+102;Cold coffee    ;Beverages;40
+78;Cold coffee    ;Beverages;40
+84;Vadapav        ;Fastfood ;20
+136;Sugarcane juice;Beverages;25
+67;Vadapav        ;Fastfood ;20
+64;Panipuri       ;Fastfood ;20
+50;Frankie        ;Fastfood ;50
+129;Frankie        ;Fastfood ;50
+65;Frankie        ;Fastfood ;50
+19;Frankie        ;Fastfood ;50
+78;Panipuri       ;Fastfood ;20
+49;Aalopuri       ;Fastfood ;20
+44;Aalopuri       ;Fastfood ;20
+27;Aalopuri       ;Fastfood ;20
+23;Cold coffee    ;Beverages;40
+70;Aalopuri       ;Fastfood ;20
+68;Vadapav        ;Fastfood ;20
+107;Cold coffee    ;Beverages;40
+146;Aalopuri       ;Fastfood ;20
+149;Cold coffee    ;Beverages;40
+7;Aalopuri       ;Fastfood ;20
+44;Sugarcane juice;Beverages;25
+115;Sandwich       ;Fastfood ;60
+46;Cold coffee    ;Beverages;40
+99;Vadapav        ;Fastfood ;20
+8;Sugarcane juice;Beverages;25
+2;Panipuri       ;Fastfood ;20
+2;Vadapav        ;Fastfood ;20
+10;Cold coffee    ;Beverages;40
+40;Cold coffee    ;Beverages;40
+38;Cold coffee    ;Beverages;40
+85;Panipuri       ;Fastfood ;20
+144;Frankie        ;Fastfood ;50
+44;Sandwich       ;Fastfood ;60
+112;Panipuri       ;Fastfood ;20
+64;Cold coffee    ;Beverages;40
+2;Panipuri       ;Fastfood ;20
+24;Sandwich       ;Fastfood ;60
+58;Sandwich       ;Fastfood ;60
+53;Aalopuri       ;Fastfood ;20
+32;Aalopuri       ;Fastfood ;20
+102;Aalopuri       ;Fastfood ;20
+108;Sugarcane juice;Beverages;25
+9;Frankie        ;Fastfood ;50
+3;Sandwich       ;Fastfood ;60
+106;Panipuri       ;Fastfood ;20
+133;Frankie        ;Fastfood ;50
+52;Cold coffee    ;Beverages;40
+74;Panipuri       ;Fastfood ;20
+96;Cold coffee    ;Beverages;40
+21;Sugarcane juice;Beverages;25
+38;Vadapav        ;Fastfood ;20
+55;Panipuri       ;Fastfood ;20
+19;Aalopuri       ;Fastfood ;20
+30;Vadapav        ;Fastfood ;20
+97;Panipuri       ;Fastfood ;20
+40;Sugarcane juice;Beverages;25
+139;Sandwich       ;Fastfood ;60
+70;Vadapav        ;Fastfood ;20
+8;Aalopuri       ;Fastfood ;20
+139;Aalopuri       ;Fastfood ;20
+101;Aalopuri       ;Fastfood ;20
+74;Aalopuri       ;Fastfood ;20
+98;Sugarcane juice;Beverages;25
+149;Sandwich       ;Fastfood ;60
+31;Frankie        ;Fastfood ;50
+12;Frankie        ;Fastfood ;50
+109;Aalopuri       ;Fastfood ;20
+136;Sugarcane juice;Beverages;25
+116;Frankie        ;Fastfood ;50
+144;Panipuri       ;Fastfood ;20
+54;Sandwich       ;Fastfood ;60
+86;Frankie        ;Fastfood ;50
+99;Panipuri       ;Fastfood ;20
+133;Sandwich       ;Fastfood ;60
+44;Sandwich       ;Fastfood ;60
+105;Cold coffee    ;Beverages;40
+75;Frankie        ;Fastfood ;50
+42;Cold coffee    ;Beverages;40
+147;Panipuri       ;Fastfood ;20
+149;Vadapav        ;Fastfood ;20
+89;Sugarcane juice;Beverages;25
+2;Panipuri       ;Fastfood ;20
+111;Frankie        ;Fastfood ;50
+18;Aalopuri       ;Fastfood ;20
+146;Sugarcane juice;Beverages;25
+115;Vadapav        ;Fastfood ;20
+65;Sugarcane juice;Beverages;25
+132;Aalopuri       ;Fastfood ;20
+29;Frankie        ;Fastfood ;50
+5;Sugarcane juice;Beverages;25
+104;Sandwich       ;Fastfood ;60
+137;Panipuri       ;Fastfood ;20
+116;Cold coffee    ;Beverages;40
+43;Sandwich       ;Fastfood ;60
+26;Vadapav        ;Fastfood ;20
+15;Aalopuri       ;Fastfood ;20
+116;Vadapav        ;Fastfood ;20
+82;Sugarcane juice;Beverages;25
+47;Cold coffee    ;Beverages;40
+132;Aalopuri       ;Fastfood ;20
+82;Frankie        ;Fastfood ;50
+8;Panipuri       ;Fastfood ;20
+13;Panipuri       ;Fastfood ;20
+124;Aalopuri       ;Fastfood ;20
+60;Sugarcane juice;Beverages;25
+81;Vadapav        ;Fastfood ;20
+131;Cold coffee    ;Beverages;40
+138;Cold coffee    ;Beverages;40
+132;Sugarcane juice;Beverages;25
+107;Cold coffee    ;Beverages;40
+109;Sugarcane juice;Beverages;25
+93;Frankie        ;Fastfood ;50
+37;Aalopuri       ;Fastfood ;20
+83;Panipuri       ;Fastfood ;20
+34;Vadapav        ;Fastfood ;20
+121;Cold coffee    ;Beverages;40
+69;Sugarcane juice;Beverages;25
+113;Vadapav        ;Fastfood ;20
+119;Cold coffee    ;Beverages;40
+10;Vadapav        ;Fastfood ;20
+109;Sandwich       ;Fastfood ;60
+8;Sandwich       ;Fastfood ;60
+37;Panipuri       ;Fastfood ;20
+113;Frankie        ;Fastfood ;50
+18;Frankie        ;Fastfood ;50
+110;Cold coffee    ;Beverages;40
+130;Panipuri       ;Fastfood ;20
+136;Aalopuri       ;Fastfood ;20
+37;Vadapav        ;Fastfood ;20
+106;Cold coffee    ;Beverages;40
+85;Vadapav        ;Fastfood ;20
+15;Aalopuri       ;Fastfood ;20
+21;Cold coffee    ;Beverages;40
+75;Cold coffee    ;Beverages;40
+148;Aalopuri       ;Fastfood ;20
+63;Sugarcane juice;Beverages;25
+149;Aalopuri       ;Fastfood ;20
+98;Cold coffee    ;Beverages;40
+144;Vadapav        ;Fastfood ;20
+30;Sugarcane juice;Beverages;25
+117;Sugarcane juice;Beverages;25
+96;Panipuri       ;Fastfood ;20
+150;Cold coffee    ;Beverages;40
+134;Cold coffee    ;Beverages;40
+51;Aalopuri       ;Fastfood ;20
+92;Sugarcane juice;Beverages;25
+7;Sandwich       ;Fastfood ;60
+35;Sandwich       ;Fastfood ;60
+110;Panipuri       ;Fastfood ;20
+94;Sugarcane juice;Beverages;25
+33;Frankie        ;Fastfood ;50
+88;Aalopuri       ;Fastfood ;20
+81;Cold coffee    ;Beverages;40
+68;Panipuri       ;Fastfood ;20
+36;Panipuri       ;Fastfood ;20
+107;Frankie        ;Fastfood ;50
+141;Sugarcane juice;Beverages;25
+83;Vadapav        ;Fastfood ;20
+2;Panipuri       ;Fastfood ;20
+133;Panipuri       ;Fastfood ;20
+91;Sandwich       ;Fastfood ;60
+14;Vadapav        ;Fastfood ;20
+27;Panipuri       ;Fastfood ;20
+90;Vadapav        ;Fastfood ;20
+11;Frankie        ;Fastfood ;50
+132;Sandwich       ;Fastfood ;60
+20;Sugarcane juice;Beverages;25
+141;Cold coffee    ;Beverages;40
+72;Panipuri       ;Fastfood ;20
+24;Sandwich       ;Fastfood ;60
+80;Vadapav        ;Fastfood ;20
+13;Vadapav        ;Fastfood ;20
+124;Sugarcane juice;Beverages;25
+30;Frankie        ;Fastfood ;50
+67;Sugarcane juice;Beverages;25
+11;Sugarcane juice;Beverages;25
+106;Cold coffee    ;Beverages;40
+78;Vadapav        ;Fastfood ;20
+81;Sugarcane juice;Beverages;25
+64;Cold coffee    ;Beverages;40
+94;Vadapav        ;Fastfood ;20
+49;Aalopuri       ;Fastfood ;20
+43;Sandwich       ;Fastfood ;60
+71;Vadapav        ;Fastfood ;20
+35;Sandwich       ;Fastfood ;60
+85;Sugarcane juice;Beverages;25
+45;Frankie        ;Fastfood ;50
+135;Vadapav        ;Fastfood ;20
+109;Panipuri       ;Fastfood ;20
+71;Sugarcane juice;Beverages;25
+77;Vadapav        ;Fastfood ;20
+82;Frankie        ;Fastfood ;50
+147;Vadapav        ;Fastfood ;20
+36;Cold coffee    ;Beverages;40
+44;Panipuri       ;Fastfood ;20
+105;Sandwich       ;Fastfood ;60
+90;Vadapav        ;Fastfood ;20
+40;Frankie        ;Fastfood ;50
+140;Panipuri       ;Fastfood ;20
+45;Sugarcane juice;Beverages;25
+49;Vadapav        ;Fastfood ;20
+5;Sugarcane juice;Beverages;25
+138;Cold coffee    ;Beverages;40
+59;Frankie        ;Fastfood ;50
+131;Vadapav        ;Fastfood ;20
+142;Panipuri       ;Fastfood ;20
+22;Sandwich       ;Fastfood ;60
+92;Vadapav        ;Fastfood ;20
+34;Panipuri       ;Fastfood ;20
+91;Frankie        ;Fastfood ;50
+45;Aalopuri       ;Fastfood ;20
+10;Vadapav        ;Fastfood ;20
+87;Aalopuri       ;Fastfood ;20
+133;Sandwich       ;Fastfood ;60
+147;Aalopuri       ;Fastfood ;20
+82;Panipuri       ;Fastfood ;20
+79;Frankie        ;Fastfood ;50
+32;Frankie        ;Fastfood ;50
+85;Panipuri       ;Fastfood ;20
+112;Aalopuri       ;Fastfood ;20
+74;Sandwich       ;Fastfood ;60
+64;Panipuri       ;Fastfood ;20
+64;Sandwich       ;Fastfood ;60
+102;Sugarcane juice;Beverages;25
+48;Aalopuri       ;Fastfood ;20
+105;Aalopuri       ;Fastfood ;20
+118;Panipuri       ;Fastfood ;20
+81;Aalopuri       ;Fastfood ;20
+26;Sugarcane juice;Beverages;25
+77;Vadapav        ;Fastfood ;20
+78;Panipuri       ;Fastfood ;20
+48;Cold coffee    ;Beverages;40
+63;Vadapav        ;Fastfood ;20
+127;Sandwich       ;Fastfood ;60
+44;Sandwich       ;Fastfood ;60
+115;Vadapav        ;Fastfood ;20
+116;Frankie        ;Fastfood ;50
+138;Cold coffee    ;Beverages;40
+65;Cold coffee    ;Beverages;40
+145;Frankie        ;Fastfood ;50
+4;Cold coffee    ;Beverages;40
+51;Frankie        ;Fastfood ;50
+43;Aalopuri       ;Fastfood ;20
+27;Aalopuri       ;Fastfood ;20
+95;Frankie        ;Fastfood ;50
+135;Sugarcane juice;Beverages;25
+53;Frankie        ;Fastfood ;50
+64;Cold coffee    ;Beverages;40
+127;Aalopuri       ;Fastfood ;20
+148;Sugarcane juice;Beverages;25
+148;Aalopuri       ;Fastfood ;20
+83;Sandwich       ;Fastfood ;60
+69;Frankie        ;Fastfood ;50
+80;Vadapav        ;Fastfood ;20
+95;Panipuri       ;Fastfood ;20
+3;Panipuri       ;Fastfood ;20
+19;Panipuri       ;Fastfood ;20
+114;Aalopuri       ;Fastfood ;20
+86;Sugarcane juice;Beverages;25
+65;Cold coffee    ;Beverages;40
+75;Cold coffee    ;Beverages;40
+104;Sugarcane juice;Beverages;25
+27;Aalopuri       ;Fastfood ;20
+125;Sugarcane juice;Beverages;25
+94;Sugarcane juice;Beverages;25
+4;Cold coffee    ;Beverages;40
+104;Frankie        ;Fastfood ;50
+75;Vadapav        ;Fastfood ;20
+98;Sugarcane juice;Beverages;25
+43;Cold coffee    ;Beverages;40
+17;Panipuri       ;Fastfood ;20
+1;Cold coffee    ;Beverages;40
+75;Frankie        ;Fastfood ;50
+145;Vadapav        ;Fastfood ;20
+39;Panipuri       ;Fastfood ;20
+50;Cold coffee    ;Beverages;40
+87;Frankie        ;Fastfood ;50
+52;Frankie        ;Fastfood ;50
+34;Vadapav        ;Fastfood ;20
+35;Panipuri       ;Fastfood ;20
+65;Cold coffee    ;Beverages;40
+67;Sugarcane juice;Beverages;25
+132;Sandwich       ;Fastfood ;60
+100;Aalopuri       ;Fastfood ;20
+72;Aalopuri       ;Fastfood ;20
+102;Cold coffee    ;Beverages;40
+9;Sandwich       ;Fastfood ;60
+45;Sugarcane juice;Beverages;25
+104;Frankie        ;Fastfood ;50
+63;Cold coffee    ;Beverages;40
+63;Panipuri       ;Fastfood ;20
+42;Sugarcane juice;Beverages;25
+49;Panipuri       ;Fastfood ;20
+70;Cold coffee    ;Beverages;40
+96;Sandwich       ;Fastfood ;60
+57;Panipuri       ;Fastfood ;20
+85;Vadapav        ;Fastfood ;20
+139;Frankie        ;Fastfood ;50
+127;Sugarcane juice;Beverages;25
+135;Frankie        ;Fastfood ;50
+97;Panipuri       ;Fastfood ;20
+88;Frankie        ;Fastfood ;50
+124;Sugarcane juice;Beverages;25
+3;Vadapav        ;Fastfood ;20
+12;Cold coffee    ;Beverages;40
+112;Sandwich       ;Fastfood ;60
+101;Vadapav        ;Fastfood ;20
+114;Cold coffee    ;Beverages;40
+68;Aalopuri       ;Fastfood ;20
+122;Sugarcane juice;Beverages;25
+126;Vadapav        ;Fastfood ;20
+148;Frankie        ;Fastfood ;50
+35;Sugarcane juice;Beverages;25
+135;Sandwich       ;Fastfood ;60
+10;Sandwich       ;Fastfood ;60
+105;Sugarcane juice;Beverages;25
+72;Aalopuri       ;Fastfood ;20
+150;Aalopuri       ;Fastfood ;20
+25;Sugarcane juice;Beverages;25
+105;Sandwich       ;Fastfood ;60
+25;Sandwich       ;Fastfood ;60
+115;Frankie        ;Fastfood ;50
+65;Aalopuri       ;Fastfood ;20
+38;Panipuri       ;Fastfood ;20
+111;Panipuri       ;Fastfood ;20
+63;Cold coffee    ;Beverages;40
+131;Sugarcane juice;Beverages;25
+142;Frankie        ;Fastfood ;50
+127;Cold coffee    ;Beverages;40
+118;Frankie        ;Fastfood ;50
+116;Sugarcane juice;Beverages;25
+98;Cold coffee    ;Beverages;40
+39;Sugarcane juice;Beverages;25
+150;Vadapav        ;Fastfood ;20
+49;Aalopuri       ;Fastfood ;20
+84;Aalopuri       ;Fastfood ;20
+66;Panipuri       ;Fastfood ;20
+137;Sugarcane juice;Beverages;25
+1;Aalopuri       ;Fastfood ;20
+51;Cold coffee    ;Beverages;40
+35;Vadapav        ;Fastfood ;20
+40;Sandwich       ;Fastfood ;60
+130;Panipuri       ;Fastfood ;20
+101;Cold coffee    ;Beverages;40
+149;Sugarcane juice;Beverages;25
+133;Frankie        ;Fastfood ;50
+81;Cold coffee    ;Beverages;40
+4;Cold coffee    ;Beverages;40
+44;Frankie        ;Fastfood ;50
+39;Sugarcane juice;Beverages;25
+32;Panipuri       ;Fastfood ;20
+97;Frankie        ;Fastfood ;50
+1;Sandwich       ;Fastfood ;60
+121;Sugarcane juice;Beverages;25
+18;Cold coffee    ;Beverages;40
+144;Sandwich       ;Fastfood ;60
+135;Panipuri       ;Fastfood ;20
+65;Panipuri       ;Fastfood ;20
+83;Panipuri       ;Fastfood ;20
+20;Aalopuri       ;Fastfood ;20
+4;Sandwich       ;Fastfood ;60
+51;Frankie        ;Fastfood ;50
+129;Cold coffee    ;Beverages;40
+147;Cold coffee    ;Beverages;40
+92;Frankie        ;Fastfood ;50
+11;Aalopuri       ;Fastfood ;20
+6;Aalopuri       ;Fastfood ;20
+91;Sugarcane juice;Beverages;25
+118;Sugarcane juice;Beverages;25
+139;Frankie        ;Fastfood ;50
+121;Sandwich       ;Fastfood ;60
+98;Cold coffee    ;Beverages;40
+40;Frankie        ;Fastfood ;50
+42;Vadapav        ;Fastfood ;20
+98;Frankie        ;Fastfood ;50
+13;Sugarcane juice;Beverages;25
+37;Sugarcane juice;Beverages;25
+100;Frankie        ;Fastfood ;50
+67;Sandwich       ;Fastfood ;60
+63;Sandwich       ;Fastfood ;60
+15;Cold coffee    ;Beverages;40
+3;Cold coffee    ;Beverages;40
+122;Cold coffee    ;Beverages;40
+71;Sugarcane juice;Beverages;25
+136;Vadapav        ;Fastfood ;20
+47;Aalopuri       ;Fastfood ;20
+30;Sugarcane juice;Beverages;25
+48;Vadapav        ;Fastfood ;20
+47;Sandwich       ;Fastfood ;60
+25;Sugarcane juice;Beverages;25
+20;Sugarcane juice;Beverages;25
+94;Panipuri       ;Fastfood ;20
+67;Aalopuri       ;Fastfood ;20
+69;Panipuri       ;Fastfood ;20
+88;Sandwich       ;Fastfood ;60
+36;Vadapav        ;Fastfood ;20
+79;Panipuri       ;Fastfood ;20
+103;Panipuri       ;Fastfood ;20
+2;Sandwich       ;Fastfood ;60
+41;Sugarcane juice;Beverages;25
+63;Cold coffee    ;Beverages;40
+94;Aalopuri       ;Fastfood ;20
+137;Sandwich       ;Fastfood ;60
+75;Sugarcane juice;Beverages;25
+89;Sandwich       ;Fastfood ;60
+148;Vadapav        ;Fastfood ;20
+149;Sugarcane juice;Beverages;25
+124;Aalopuri       ;Fastfood ;20
+70;Panipuri       ;Fastfood ;20
+38;Cold coffee    ;Beverages;40
+49;Aalopuri       ;Fastfood ;20
+134;Vadapav        ;Fastfood ;20
+49;Sandwich       ;Fastfood ;60
+95;Cold coffee    ;Beverages;40
+90;Frankie        ;Fastfood ;50
+65;Cold coffee    ;Beverages;40
+66;Vadapav        ;Fastfood ;20
+22;Sandwich       ;Fastfood ;60
+106;Cold coffee    ;Beverages;40
+87;Cold coffee    ;Beverages;40
+70;Aalopuri       ;Fastfood ;20
+105;Cold coffee    ;Beverages;40
+85;Sandwich       ;Fastfood ;60
+118;Frankie        ;Fastfood ;50
+9;Sandwich       ;Fastfood ;60
+23;Vadapav        ;Fastfood ;20
+77;Sugarcane juice;Beverages;25
+142;Panipuri       ;Fastfood ;20
+5;Aalopuri       ;Fastfood ;20
+120;Cold coffee    ;Beverages;40
+90;Frankie        ;Fastfood ;50
+30;Cold coffee    ;Beverages;40
+68;Aalopuri       ;Fastfood ;20
+77;Sandwich       ;Fastfood ;60
+122;Vadapav        ;Fastfood ;20
+82;Sandwich       ;Fastfood ;60
+121;Panipuri       ;Fastfood ;20
+41;Panipuri       ;Fastfood ;20
+146;Cold coffee    ;Beverages;40
+93;Cold coffee    ;Beverages;40
+132;Sandwich       ;Fastfood ;60
+10;Sugarcane juice;Beverages;25
+26;Panipuri       ;Fastfood ;20
+112;Aalopuri       ;Fastfood ;20
+44;Cold coffee    ;Beverages;40
+23;Panipuri       ;Fastfood ;20
+78;Panipuri       ;Fastfood ;20
+68;Panipuri       ;Fastfood ;20
+22;Frankie        ;Fastfood ;50
+51;Aalopuri       ;Fastfood ;20
+50;Vadapav        ;Fastfood ;20
+64;Sandwich       ;Fastfood ;60
+145;Sugarcane juice;Beverages;25
+45;Sugarcane juice;Beverages;25
+139;Aalopuri       ;Fastfood ;20
+134;Panipuri       ;Fastfood ;20
+124;Cold coffee    ;Beverages;40
+102;Panipuri       ;Fastfood ;20
+2;Frankie        ;Fastfood ;50
+82;Vadapav        ;Fastfood ;20
+85;Sandwich       ;Fastfood ;60
+25;Sugarcane juice;Beverages;25
+37;Panipuri       ;Fastfood ;20
+107;Panipuri       ;Fastfood ;20
+43;Panipuri       ;Fastfood ;20
+138;Vadapav        ;Fastfood ;20
+20;Panipuri       ;Fastfood ;20
+75;Sugarcane juice;Beverages;25
+61;Aalopuri       ;Fastfood ;20
+127;Sandwich       ;Fastfood ;60
+43;Sandwich       ;Fastfood ;60
+58;Aalopuri       ;Fastfood ;20
+91;Cold coffee    ;Beverages;40
+113;Cold coffee    ;Beverages;40
+81;Sugarcane juice;Beverages;25
+87;Cold coffee    ;Beverages;40
+119;Sugarcane juice;Beverages;25
+81;Sugarcane juice;Beverages;25
+66;Panipuri       ;Fastfood ;20
+21;Panipuri       ;Fastfood ;20
+4;Sandwich       ;Fastfood ;60
+52;Vadapav        ;Fastfood ;20
+88;Sandwich       ;Fastfood ;60
+95;Panipuri       ;Fastfood ;20
+2;Cold coffee    ;Beverages;40
+102;Sugarcane juice;Beverages;25
+6;Panipuri       ;Fastfood ;20
+18;Frankie        ;Fastfood ;50
+136;Frankie        ;Fastfood ;50
+33;Cold coffee    ;Beverages;40
+56;Panipuri       ;Fastfood ;20
+79;Frankie        ;Fastfood ;50
+101;Cold coffee    ;Beverages;40
+2;Panipuri       ;Fastfood ;20
+139;Cold coffee    ;Beverages;40
+28;Sugarcane juice;Beverages;25
+126;Sugarcane juice;Beverages;25
+148;Sandwich       ;Fastfood ;60
+120;Frankie        ;Fastfood ;50
+22;Aalopuri       ;Fastfood ;20
+39;Vadapav        ;Fastfood ;20
+19;Panipuri       ;Fastfood ;20
+135;Cold coffee    ;Beverages;40
+121;Frankie        ;Fastfood ;50
+72;Panipuri       ;Fastfood ;20
+127;Panipuri       ;Fastfood ;20
+111;Sugarcane juice;Beverages;25
+126;Aalopuri       ;Fastfood ;20
+124;Frankie        ;Fastfood ;50
+44;Cold coffee    ;Beverages;40
+63;Vadapav        ;Fastfood ;20
+67;Sandwich       ;Fastfood ;60
+31;Aalopuri       ;Fastfood ;20
+76;Frankie        ;Fastfood ;50
+68;Cold coffee    ;Beverages;40
+19;Panipuri       ;Fastfood ;20
+88;Sandwich       ;Fastfood ;60
+72;Sugarcane juice;Beverages;25
+23;Sugarcane juice;Beverages;25
+19;Frankie        ;Fastfood ;50
+65;Frankie        ;Fastfood ;50
+88;Cold coffee    ;Beverages;40
+138;Panipuri       ;Fastfood ;20
+111;Cold coffee    ;Beverages;40
+23;Frankie        ;Fastfood ;50
+1;Panipuri       ;Fastfood ;20
+126;Aalopuri       ;Fastfood ;20
+90;Aalopuri       ;Fastfood ;20
+37;Vadapav        ;Fastfood ;20
+84;Frankie        ;Fastfood ;50
+130;Cold coffee    ;Beverages;40
+48;Cold coffee    ;Beverages;40
+67;Vadapav        ;Fastfood ;20
+12;Aalopuri       ;Fastfood ;20
+81;Aalopuri       ;Fastfood ;20
+48;Frankie        ;Fastfood ;50
+116;Aalopuri       ;Fastfood ;20
+117;Aalopuri       ;Fastfood ;20
+150;Vadapav        ;Fastfood ;20
+118;Vadapav        ;Fastfood ;20
+141;Sandwich       ;Fastfood ;60
+129;Vadapav        ;Fastfood ;20
+99;Sugarcane juice;Beverages;25
+109;Frankie        ;Fastfood ;50
+100;Sugarcane juice;Beverages;25
+79;Panipuri       ;Fastfood ;20
+31;Aalopuri       ;Fastfood ;20
+75;Panipuri       ;Fastfood ;20
+85;Cold coffee    ;Beverages;40
+116;Sandwich       ;Fastfood ;60
+135;Sandwich       ;Fastfood ;60
+4;Cold coffee    ;Beverages;40
+139;Sugarcane juice;Beverages;25
+51;Cold coffee    ;Beverages;40
+111;Sugarcane juice;Beverages;25
+43;Frankie        ;Fastfood ;50
+39;Cold coffee    ;Beverages;40
+142;Panipuri       ;Fastfood ;20
+120;Cold coffee    ;Beverages;40
+66;Panipuri       ;Fastfood ;20
+127;Vadapav        ;Fastfood ;20
+37;Cold coffee    ;Beverages;40
+87;Aalopuri       ;Fastfood ;20
+66;Cold coffee    ;Beverages;40
+46;Vadapav        ;Fastfood ;20
+132;Sandwich       ;Fastfood ;60
+65;Vadapav        ;Fastfood ;20
+59;Cold coffee    ;Beverages;40
+126;Sugarcane juice;Beverages;25
+77;Panipuri       ;Fastfood ;20
+54;Sandwich       ;Fastfood ;60
+118;Vadapav        ;Fastfood ;20
+50;Vadapav        ;Fastfood ;20
+140;Sandwich       ;Fastfood ;60
+146;Frankie        ;Fastfood ;50
+84;Sandwich       ;Fastfood ;60
+101;Sandwich       ;Fastfood ;60
+115;Cold coffee    ;Beverages;40
+117;Frankie        ;Fastfood ;50
+45;Vadapav        ;Fastfood ;20
+117;Sugarcane juice;Beverages;25
+114;Sandwich       ;Fastfood ;60
+32;Cold coffee    ;Beverages;40
+48;Aalopuri       ;Fastfood ;20
+61;Panipuri       ;Fastfood ;20
+110;Sandwich       ;Fastfood ;60
+118;Frankie        ;Fastfood ;50
+134;Panipuri       ;Fastfood ;20
+150;Sugarcane juice;Beverages;25
+44;Frankie        ;Fastfood ;50
+19;Aalopuri       ;Fastfood ;20
+101;Panipuri       ;Fastfood ;20
+70;Vadapav        ;Fastfood ;20
+5;Aalopuri       ;Fastfood ;20
+85;Sandwich       ;Fastfood ;60
+66;Panipuri       ;Fastfood ;20
+108;Sandwich       ;Fastfood ;60
+76;Cold coffee    ;Beverages;40
+126;Sandwich       ;Fastfood ;60
+99;Sugarcane juice;Beverages;25
+117;Sandwich       ;Fastfood ;60
+68;Frankie        ;Fastfood ;50
+28;Cold coffee    ;Beverages;40
+103;Aalopuri       ;Fastfood ;20
+26;Sandwich       ;Fastfood ;60
+117;Cold coffee    ;Beverages;40
+60;Frankie        ;Fastfood ;50
+65;Aalopuri       ;Fastfood ;20
+38;Frankie        ;Fastfood ;50
+2;Vadapav        ;Fastfood ;20
+44;Aalopuri       ;Fastfood ;20
+5;Cold coffee    ;Beverages;40
+135;Vadapav        ;Fastfood ;20
+97;Frankie        ;Fastfood ;50
+69;Vadapav        ;Fastfood ;20
+92;Vadapav        ;Fastfood ;20
+109;Sandwich       ;Fastfood ;60
+130;Frankie        ;Fastfood ;50
+115;Sugarcane juice;Beverages;25
+64;Panipuri       ;Fastfood ;20
+2;Panipuri       ;Fastfood ;20
+14;Sugarcane juice;Beverages;25
+48;Sugarcane juice;Beverages;25
+98;Panipuri       ;Fastfood ;20
+145;Cold coffee    ;Beverages;40
+9;Frankie        ;Fastfood ;50
+34;Sugarcane juice;Beverages;25
+49;Cold coffee    ;Beverages;40
+142;Panipuri       ;Fastfood ;20
+109;Sandwich       ;Fastfood ;60
+70;Sandwich       ;Fastfood ;60
+39;Frankie        ;Fastfood ;50
+78;Panipuri       ;Fastfood ;20
+38;Sandwich       ;Fastfood ;60
+20;Cold coffee    ;Beverages;40
+89;Sandwich       ;Fastfood ;60
+143;Aalopuri       ;Fastfood ;20
+77;Vadapav        ;Fastfood ;20
+147;Sugarcane juice;Beverages;25
+73;Sugarcane juice;Beverages;25
+50;Sandwich       ;Fastfood ;60
+88;Panipuri       ;Fastfood ;20
+13;Sugarcane juice;Beverages;25
+42;Aalopuri       ;Fastfood ;20
+135;Vadapav        ;Fastfood ;20
+76;Frankie        ;Fastfood ;50
+143;Panipuri       ;Fastfood ;20
+60;Vadapav        ;Fastfood ;20
+70;Cold coffee    ;Beverages;40
+21;Frankie        ;Fastfood ;50
+98;Vadapav        ;Fastfood ;20
+144;Panipuri       ;Fastfood ;20
+63;Aalopuri       ;Fastfood ;20
+28;Vadapav        ;Fastfood ;20
+119;Sandwich       ;Fastfood ;60
+5;Frankie        ;Fastfood ;50
+83;Frankie        ;Fastfood ;50
+143;Panipuri       ;Fastfood ;20
+128;Frankie        ;Fastfood ;50
+75;Frankie        ;Fastfood ;50
+107;Panipuri       ;Fastfood ;20
+13;Panipuri       ;Fastfood ;20
+102;Frankie        ;Fastfood ;50
+18;Sandwich       ;Fastfood ;60
+142;Aalopuri       ;Fastfood ;20
+128;Aalopuri       ;Fastfood ;20
+106;Aalopuri       ;Fastfood ;20
+126;Panipuri       ;Fastfood ;20
+33;Panipuri       ;Fastfood ;20
+87;Frankie        ;Fastfood ;50
+134;Aalopuri       ;Fastfood ;20
+141;Sugarcane juice;Beverages;25
+126;Cold coffee    ;Beverages;40
+104;Sandwich       ;Fastfood ;60
+54;Vadapav        ;Fastfood ;20
+10;Frankie        ;Fastfood ;50
+113;Vadapav        ;Fastfood ;20
+74;Panipuri       ;Fastfood ;20
+147;Sugarcane juice;Beverages;25
+87;Sugarcane juice;Beverages;25
+68;Aalopuri       ;Fastfood ;20
+24;Sugarcane juice;Beverages;25
+98;Sugarcane juice;Beverages;25
+40;Vadapav        ;Fastfood ;20
+34;Sugarcane juice;Beverages;25
+120;Sugarcane juice;Beverages;25
+44;Sandwich       ;Fastfood ;60
+93;Vadapav        ;Fastfood ;20
+28;Vadapav        ;Fastfood ;20
+145;Sandwich       ;Fastfood ;60
+8;Sandwich       ;Fastfood ;60
+77;Sandwich       ;Fastfood ;60
+76;Frankie        ;Fastfood ;50
+134;Sandwich       ;Fastfood ;60
+4;Frankie        ;Fastfood ;50
+51;Aalopuri       ;Fastfood ;20
+24;Panipuri       ;Fastfood ;20
+89;Cold coffee    ;Beverages;40
+27;Cold coffee    ;Beverages;40
+51;Vadapav        ;Fastfood ;20
+79;Sandwich       ;Fastfood ;60
+76;Frankie        ;Fastfood ;50
+97;Panipuri       ;Fastfood ;20
+71;Frankie        ;Fastfood ;50
+50;Sandwich       ;Fastfood ;60
+56;Sugarcane juice;Beverages;25
+133;Aalopuri       ;Fastfood ;20
+32;Aalopuri       ;Fastfood ;20
+47;Aalopuri       ;Fastfood ;20
+33;Vadapav        ;Fastfood ;20
+125;Aalopuri       ;Fastfood ;20
+34;Sandwich       ;Fastfood ;60
+20;Aalopuri       ;Fastfood ;20
+91;Sugarcane juice;Beverages;25
+56;Sugarcane juice;Beverages;25
+21;Panipuri       ;Fastfood ;20
+36;Vadapav        ;Fastfood ;20
+52;Vadapav        ;Fastfood ;20
+6;Sandwich       ;Fastfood ;60
+117;Sugarcane juice;Beverages;25
+130;Vadapav        ;Fastfood ;20
+35;Sugarcane juice;Beverages;25
+109;Cold coffee    ;Beverages;40
+141;Frankie        ;Fastfood ;50
+139;Panipuri       ;Fastfood ;20
+53;Cold coffee    ;Beverages;40
+60;Aalopuri       ;Fastfood ;20
+100;Sandwich       ;Fastfood ;60
+107;Vadapav        ;Fastfood ;20
+51;Cold coffee    ;Beverages;40
+79;Sugarcane juice;Beverages;25
+12;Vadapav        ;Fastfood ;20
+12;Frankie        ;Fastfood ;50
+137;Panipuri       ;Fastfood ;20
+90;Panipuri       ;Fastfood ;20
+124;Vadapav        ;Fastfood ;20
+145;Aalopuri       ;Fastfood ;20
+138;Panipuri       ;Fastfood ;20
+49;Panipuri       ;Fastfood ;20
+112;Vadapav        ;Fastfood ;20
+33;Cold coffee    ;Beverages;40
+35;Sugarcane juice;Beverages;25
+76;Aalopuri       ;Fastfood ;20
+55;Frankie        ;Fastfood ;50
+19;Vadapav        ;Fastfood ;20
+59;Aalopuri       ;Fastfood ;20
+121;Aalopuri       ;Fastfood ;20
+41;Panipuri       ;Fastfood ;20
+43;Panipuri       ;Fastfood ;20
+99;Vadapav        ;Fastfood ;20
+120;Panipuri       ;Fastfood ;20
+136;Sandwich       ;Fastfood ;60
+8;Sandwich       ;Fastfood ;60
+87;Panipuri       ;Fastfood ;20
+133;Cold coffee    ;Beverages;40
+137;Cold coffee    ;Beverages;40
+149;Frankie        ;Fastfood ;50
+42;Sugarcane juice;Beverages;25
+80;Panipuri       ;Fastfood ;20
+114;Sugarcane juice;Beverages;25
+14;Sugarcane juice;Beverages;25
+104;Vadapav        ;Fastfood ;20
+64;Aalopuri       ;Fastfood ;20
+119;Cold coffee    ;Beverages;40
+83;Sugarcane juice;Beverages;25
+44;Cold coffee    ;Beverages;40
+107;Vadapav        ;Fastfood ;20
+95;Panipuri       ;Fastfood ;20
+19;Sugarcane juice;Beverages;25
+89;Sugarcane juice;Beverages;25
+65;Cold coffee    ;Beverages;40
+93;Aalopuri       ;Fastfood ;20
+108;Panipuri       ;Fastfood ;20
+139;Frankie        ;Fastfood ;50
+36;Cold coffee    ;Beverages;40
+137;Vadapav        ;Fastfood ;20
+60;Aalopuri       ;Fastfood ;20
+97;Sugarcane juice;Beverages;25
+111;Cold coffee    ;Beverages;40
+96;Cold coffee    ;Beverages;40
+45;Vadapav        ;Fastfood ;20
+53;Aalopuri       ;Fastfood ;20
+16;Sugarcane juice;Beverages;25
+75;Cold coffee    ;Beverages;40
+48;Sandwich       ;Fastfood ;60
+48;Cold coffee    ;Beverages;40
+95;Sugarcane juice;Beverages;25
+43;Frankie        ;Fastfood ;50
+30;Frankie        ;Fastfood ;50
+23;Cold coffee    ;Beverages;40
+92;Sugarcane juice;Beverages;25
+70;Frankie        ;Fastfood ;50
+23;Frankie        ;Fastfood ;50
+67;Aalopuri       ;Fastfood ;20
+24;Panipuri       ;Fastfood ;20
+35;Cold coffee    ;Beverages;40
+149;Vadapav        ;Fastfood ;20
+119;Sandwich       ;Fastfood ;60
+46;Sugarcane juice;Beverages;25
+82;Cold coffee    ;Beverages;40
+26;Vadapav        ;Fastfood ;20
+2;Cold coffee    ;Beverages;40
+3;Sugarcane juice;Beverages;25
+150;Sandwich       ;Fastfood ;60
+74;Cold coffee    ;Beverages;40
+138;Sugarcane juice;Beverages;25
+83;Sandwich       ;Fastfood ;60
+149;Panipuri       ;Fastfood ;20
+21;Aalopuri       ;Fastfood ;20
+11;Vadapav        ;Fastfood ;20
+18;Sugarcane juice;Beverages;25
+59;Sugarcane juice;Beverages;25
+103;Aalopuri       ;Fastfood ;20
+13;Vadapav        ;Fastfood ;20
+33;Vadapav        ;Fastfood ;20
+33;Sugarcane juice;Beverages;25
+104;Cold coffee    ;Beverages;40
+3;Sugarcane juice;Beverages;25
+61;Sugarcane juice;Beverages;25
+138;Sandwich       ;Fastfood ;60
+80;Sugarcane juice;Beverages;25
+126;Aalopuri       ;Fastfood ;20
+135;Aalopuri       ;Fastfood ;20
+139;Frankie        ;Fastfood ;50
+53;Aalopuri       ;Fastfood ;20
+90;Sugarcane juice;Beverages;25
+87;Vadapav        ;Fastfood ;20
+129;Frankie        ;Fastfood ;50
+75;Aalopuri       ;Fastfood ;20
+109;Aalopuri       ;Fastfood ;20
+30;Frankie        ;Fastfood ;50
+111;Sandwich       ;Fastfood ;60
+103;Cold coffee    ;Beverages;40
+24;Sandwich       ;Fastfood ;60
+92;Cold coffee    ;Beverages;40
+142;Panipuri       ;Fastfood ;20
+19;Sandwich       ;Fastfood ;60
+111;Aalopuri       ;Fastfood ;20
+140;Frankie        ;Fastfood ;50
+40;Sandwich       ;Fastfood ;60
+82;Cold coffee    ;Beverages;40
+123;Cold coffee    ;Beverages;40
+54;Vadapav        ;Fastfood ;20
+83;Panipuri       ;Fastfood ;20
+136;Vadapav        ;Fastfood ;20
+82;Frankie        ;Fastfood ;50
+138;Vadapav        ;Fastfood ;20
+42;Frankie        ;Fastfood ;50
+80;Cold coffee    ;Beverages;40
+26;Panipuri       ;Fastfood ;20
+8;Frankie        ;Fastfood ;50
+100;Frankie        ;Fastfood ;50
+38;Cold coffee    ;Beverages;40
+145;Sandwich       ;Fastfood ;60
+122;Frankie        ;Fastfood ;50
+102;Sugarcane juice;Beverages;25
+53;Aalopuri       ;Fastfood ;20
+124;Sandwich       ;Fastfood ;60
+4;Sugarcane juice;Beverages;25
+57;Cold coffee    ;Beverages;40
+134;Sandwich       ;Fastfood ;60
+128;Panipuri       ;Fastfood ;20
+93;Panipuri       ;Fastfood ;20
+92;Sugarcane juice;Beverages;25
+26;Vadapav        ;Fastfood ;20
+72;Sugarcane juice;Beverages;25
+60;Cold coffee    ;Beverages;40
+118;Frankie        ;Fastfood ;50
+141;Vadapav        ;Fastfood ;20
+80;Aalopuri       ;Fastfood ;20
+50;Cold coffee    ;Beverages;40
+135;Sandwich       ;Fastfood ;60
+56;Aalopuri       ;Fastfood ;20
+34;Sandwich       ;Fastfood ;60
+142;Panipuri       ;Fastfood ;20
+23;Frankie        ;Fastfood ;50
+120;Panipuri       ;Fastfood ;20
+124;Aalopuri       ;Fastfood ;20
+99;Sandwich       ;Fastfood ;60
+59;Aalopuri       ;Fastfood ;20
+24;Sugarcane juice;Beverages;25
+65;Frankie        ;Fastfood ;50
+122;Panipuri       ;Fastfood ;20
+20;Sandwich       ;Fastfood ;60
+71;Vadapav        ;Fastfood ;20
+50;Sugarcane juice;Beverages;25
+16;Frankie        ;Fastfood ;50
+83;Frankie        ;Fastfood ;50
+71;Vadapav        ;Fastfood ;20
+65;Cold coffee    ;Beverages;40
+108;Frankie        ;Fastfood ;50
+105;Panipuri       ;Fastfood ;20
+109;Cold coffee    ;Beverages;40
+84;Cold coffee    ;Beverages;40
+96;Cold coffee    ;Beverages;40
+74;Aalopuri       ;Fastfood ;20
+37;Frankie        ;Fastfood ;50
+124;Aalopuri       ;Fastfood ;20
+26;Sugarcane juice;Beverages;25
+78;Vadapav        ;Fastfood ;20
+54;Aalopuri       ;Fastfood ;20
+107;Sugarcane juice;Beverages;25
+50;Aalopuri       ;Fastfood ;20
+61;Frankie        ;Fastfood ;50
+124;Aalopuri       ;Fastfood ;20
+50;Vadapav        ;Fastfood ;20
+76;Panipuri       ;Fastfood ;20
+113;Sugarcane juice;Beverages;25
+36;Cold coffee    ;Beverages;40
+116;Frankie        ;Fastfood ;50
+14;Frankie        ;Fastfood ;50
+9;Sugarcane juice;Beverages;25
+98;Vadapav        ;Fastfood ;20
+103;Frankie        ;Fastfood ;50
+77;Cold coffee    ;Beverages;40
+11;Vadapav        ;Fastfood ;20
+91;Sandwich       ;Fastfood ;60
+63;Sandwich       ;Fastfood ;60
+14;Frankie        ;Fastfood ;50
+115;Panipuri       ;Fastfood ;20
+134;Sugarcane juice;Beverages;25
+86;Frankie        ;Fastfood ;50
+67;Sandwich       ;Fastfood ;60
+45;Sandwich       ;Fastfood ;60
+40;Panipuri       ;Fastfood ;20
+101;Aalopuri       ;Fastfood ;20
